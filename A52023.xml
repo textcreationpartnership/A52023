@@ -1,0 +1,2245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The parson's vade mecum containing choice observations about the accounts of the year, ecclesiastical censures, of the primitive fathers and their writings, a catalogue of the arch-bishops, bishops and deans in England and Wales, their election, consecration, instalment, with the clergies tenths, and their valuation in the King's book ...</title>
+            <author>R. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52023</idno>
+            <idno type="STC">Wing M73</idno>
+            <idno type="STC">ESTC R5583</idno>
+            <idno type="EEBO-CITATION">11963862</idno>
+            <idno type="OCLC">ocm 11963862</idno>
+            <idno type="VID">51642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 817:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The parson's vade mecum containing choice observations about the accounts of the year, ecclesiastical censures, of the primitive fathers and their writings, a catalogue of the arch-bishops, bishops and deans in England and Wales, their election, consecration, instalment, with the clergies tenths, and their valuation in the King's book ...</title>
+                  <author>R. M.</author>
+               </titleStmt>
+               <extent>[4], 116, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Salusbury ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>"Epistle to the Clergy-reader" signed: R.M.</note>
+                  <note>A catalogue of books: p. [1]-[4] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Handbooks, manuals, etc.</term>
+               <term>Church of England --  Clergy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:51642:1"/>
+               <pb facs="tcp:51642:1"/>
+THE PARSON'S <hi>Vade Mecum:</hi>
+            </p>
+            <p>Containing choice Obſervations about the accounts of the Year, Eccleſiaſtical Cen<g ref="char:EOLhyphen"/>ſures, of the Primitive Fathers and their writings, a Catalogue of the Arch-bi<g ref="char:EOLhyphen"/>ſhops, Biſhops and Deans in <hi>England</hi> and <hi>Wales,</hi> their Election, Conſecration, In<g ref="char:EOLhyphen"/>ſtalment, with the Clergies Tenths, and their Valuation in the King's Book; Degrees of Marriage, Non-Reſidence, Diſpenſations, Pluralities, Deprivation, Dilapidations, Tythes and Symony, <hi>&amp;c.</hi>
+            </p>
+            <p>Very fit for the Peruſal of all Clergy<g ref="char:EOLhyphen"/>men and Gentlemen.</p>
+            <p>Licenſed, <hi>Novemb.</hi> 4th, 1692. <hi>E. Bohur.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Salusbury</hi> at the <hi>King's-Arms</hi> near St. <hi>Dunstans</hi> Church in <hi>Fleetſtreet,</hi> 1693.</p>
+            <pb facs="tcp:51642:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:51642:2"/>
+            <head>THE EPISTLE TO THE Clergy-Reader.</head>
+            <opener>
+               <salute>Reverend Sir,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have peruſed ſeveral voluminous peices concerning the Acts, Offices Qualifications and Priviledges of your Sacred Function, and ſeveral o<g ref="char:EOLhyphen"/>ther matters and Eccleſiaſtical Histo<g ref="char:EOLhyphen"/>ries, Laws and Statutes relating there<g ref="char:EOLhyphen"/>to; but in ſome they lye ſcattered and immethodical, and in others, the trea<g ref="char:EOLhyphen"/>tiſes are ſo prolix, that neither time nor money can well be ſpared by the in<g ref="char:EOLhyphen"/>feriour laborious Clergy to read or pur<g ref="char:EOLhyphen"/>chaſe them. I then thought it would be a work not unacceptable to caſt my choiceſt obſervations into a methodical
+<pb facs="tcp:51642:3"/>
+Abstract; the perſuance of which Thought hath produced this little Peice; there are many new things in<g ref="char:EOLhyphen"/>ſerted, with which moſt of the Clergy are unacquainted, and which they will take pleaſure to be informed in. The reſt are notes out of the Laws and Sta<g ref="char:EOLhyphen"/>tutes of this Kingdom under proper Titles, and the abſtract of Eccleſia<g ref="char:EOLhyphen"/>ſtick Story, which will be very instru<g ref="char:EOLhyphen"/>ctive to you in many caſes; eſpecially the Chapter of Tithes, which comprehends the principal of the whole Learning thereof, and many new caſes lately ad<g ref="char:EOLhyphen"/>judged, are therein cited. In ſhort, Parſons love to have good penniworths, and I dare preſume to ſay, That after peruſal of this, you will not think twelve Pence ill beſtowed.</p>
+            <closer>
+               <signed>I am your Humble Servant <hi>R. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:51642:3"/>
+            <head>THE Parſons <hi>Vade Mecum.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Short obſervations of the account and beginning of the Years and Days, Of certain Feaſt-days, And of Em<g ref="char:EOLhyphen"/>ber Weeks.</hi>
+               </head>
+               <p>THE <hi>Engliſh</hi> Church and State begins the Year on the 25th day of <hi>March,</hi> which is al<g ref="char:EOLhyphen"/>ſo obſerved in <hi>Spain.</hi> The <hi>Por<g ref="char:EOLhyphen"/>tugueſe</hi> begin the Year on the 29th day of <hi>Auguſt.</hi> The <hi>Venetians</hi> on the firſt of <hi>March.</hi> The <hi>Grecians</hi> on the longeſt day, as the old <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> did on the ſhorteſt day.</p>
+               <p>
+                  <pb n="2" facs="tcp:51642:4"/>
+The Natural Day conſiſting of Four and Twenty Hours, is begun at midnight in <hi>England.</hi> In <hi>Italy, Bohemia</hi> and <hi>Poland,</hi> their account is from Sun ſetting; and at <hi>Norem<g ref="char:EOLhyphen"/>berg</hi> and <hi>Wittenberg</hi> in <hi>Germany,</hi> according to the old <hi>Babylonian</hi> ac<g ref="char:EOLhyphen"/>count, they begin the firſt hour after Sun-riſing to count one of the Clock, and ſo again at the firſt hour after Sun ſet.</p>
+               <p>Amongſt the <hi>Jews,</hi> the Night was divided into Four Quarters, or Watches, each Watch contain<g ref="char:EOLhyphen"/>ing three Hours. The firſt they called <hi>Caput Vigilarum.</hi> The ſe<g ref="char:EOLhyphen"/>cond the <hi>Middlewatch,</hi> becauſe it ended at Midnight. The third began at Midnight, and held till Three in the Morning, <hi>Luke</hi> 12. 38. The laſt, called the morning Watch, began at three, and end<g ref="char:EOLhyphen"/>ed at ſix, <hi>Matt.</hi> 14. 25. In the Fourth Watch of the Night Je<g ref="char:EOLhyphen"/>ſus went to them; the firſt was
+<pb n="3" facs="tcp:51642:4"/>
+alſo called the Evening, the ſe<g ref="char:EOLhyphen"/>cond Midnight, the third Cock-crowing, the fourth Dawning. Ye know not when the Maſter of the Houſe will come, at Even, or at Midnight, or at Cock-crow<g ref="char:EOLhyphen"/>ing, or at the Dawn, <hi>Matt.</hi> 13. 35. Their Day was likewiſe di<g ref="char:EOLhyphen"/>vided into Four Quarters, <hi>Matt.</hi> 20. As appears by the Para<g ref="char:EOLhyphen"/>ble of the Vineyard. The firſt Quarter began at ſix of the Clock in the Morning, and held till nine. The ſecond Quarter ended at twelve. The third Quarter at three in the after<g ref="char:EOLhyphen"/>noon, and the fourth at ſix at night. The firſt Quarter was called the third Hour, The ſe<g ref="char:EOLhyphen"/>cond Quarter the ſixth Hour<g ref="char:punc">▪</g> The third Quarter the ninth Hour, and the fourth Quarter the eleventh Hour.</p>
+               <p>The <hi>Roman</hi> Account is ten Days before our <hi>Engliſh</hi> Account; ſo
+<pb n="4" facs="tcp:51642:5"/>
+that our firſt day of the Month is their Eleventh Day. This is called <hi>Stylo Novo</hi> The Old Stile or <hi>Julian</hi> Account is obſerved by the <hi>Engliſh</hi> Nation, and all other Reformed States (except <hi>Holland</hi> and <hi>Zealand.)</hi> The new Stile or <hi>Gregorian</hi> Account is obſerved by all thoſe ſtill under the <hi>Romiſh</hi> Yoke.</p>
+               <p>
+                  <hi>Eaſter,</hi> and other moveable Feaſts in <hi>England</hi> are thus ſound.</p>
+               <p>
+                  <hi>Shrovetueſday</hi> is always the f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſt <hi>Tueſday</hi> after the firſt New Moon of <hi>January,</hi> except that New Moon happen on a <hi>Tueſday,</hi> then the next is <hi>Shrovetueſday,</hi> and the <hi>Sunday</hi> following is <hi>Quadrageſima,</hi> and the ſixth <hi>Sunday</hi> after is <hi>Eaſter</hi> day; and the fifth <hi>Sunday</hi> after <hi>Eaſter</hi> is <hi>Rogation Sunday;</hi> and the <hi>Thurſday</hi> following, being forty Days after the Reſurrection, is <hi>Aſcenſion</hi> Day, ten Days after which, or fifty Days after <hi>Easter</hi>
+                  <pb n="5" facs="tcp:51642:5"/>
+is <hi>Pentecoſt</hi> or <hi>Whitſunday,</hi> and the <hi>Sunday</hi> following is <hi>Trinity Sunday,</hi> which computation of the Church of <hi>England</hi> agrees with all the <hi>Eaſtern</hi> Chriſtian Church<g ref="char:EOLhyphen"/>es; and theſe Rules were gene<g ref="char:EOLhyphen"/>rally received by all Chriſtendom, till <hi>Anno Dom.</hi> 1582. It was alter<g ref="char:EOLhyphen"/>ed by the Pope; yet it cannot be denied but that old Computation is become Erroneous: For by our Rules two <hi>Eaſters</hi> will be obſerv<g ref="char:EOLhyphen"/>ed in one Year, as it was in the Year 1667. <hi>Advent Sunday</hi> is al<g ref="char:EOLhyphen"/>ways the fourth <hi>Sunday</hi> before <hi>Chriſtmaſs Day,</hi> or the neareſt <hi>Sun<g ref="char:EOLhyphen"/>day</hi> to St. <hi>Andrews,</hi> whether be<g ref="char:EOLhyphen"/>fore or after.</p>
+               <p>
+                  <hi>Ember</hi> Days, which the Anti<g ref="char:EOLhyphen"/>ent Fathers call <hi>Quatuor Tempora,</hi> are obſerved on <hi>Wedneſday, Fryday</hi> and <hi>Saturday,</hi> next after <hi>Quadra<g ref="char:EOLhyphen"/>geſima Sunday, Whitſunday, Holy<g ref="char:EOLhyphen"/>rood-day</hi> in <hi>September,</hi> and St. <hi>Lu<g ref="char:EOLhyphen"/>cyes day</hi> in <hi>December;</hi> therefore the Lord
+<pb n="6" facs="tcp:51642:6"/>
+L. <hi>Coke</hi> in his three Inſtitutes. Fol. 200. where he ſaith, <hi>Theſe</hi> Ember Days <hi>are next before</hi> Quadrageſima, <hi>is under a miſtake; they are called</hi> Ember Days, <hi>becauſe our Fore-fathers would in thoſe Days Eat no Bread, but Cakes made under Aſhes; and ſo it put them in mind they were but Aſhes,</hi> &amp;c. And that theſe days were devoutly obſerved by our Anceſtors, we may be perſwaded out of the Laws of King <hi>Cnute,</hi> Ch. 16. <hi>Let every man obſerve the Faſts which are commanded with earneſt care, whether it be the</hi> Imber Faſt <hi>or</hi> Lent Faſt.</p>
+               <p>The Ordination of Prieſts and Deacons is four times in the Year, upon four ſeveral <hi>Sundays</hi> in the <hi>Ember Weeks.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="7" facs="tcp:51642:6"/>
+               <head>CHAP. II. <hi>Of Eccleſiaſtical Cenſures.</hi>
+               </head>
+               <p>THE Puniſhments inflict<g ref="char:EOLhyphen"/>ed by Eccleſiaſtical Courts proceed in this manner.</p>
+               <p n="1">1. <hi>Excommunicatio Minor,</hi> From the Lord's Supper, and he that is thus, is diſabled to be plaintiff in a Law Suit; this commonly is for Contumacy, in not appear<g ref="char:EOLhyphen"/>ing on Summons, or not obeying Orders; this the Biſhop may de<g ref="char:EOLhyphen"/>legate to any grave Prieſt with the Chancellor.</p>
+               <p n="2">2. <hi>Excommunicatio Minor,</hi> As for Hereſie, Schiſm, Inceſt, <hi>&amp;c.</hi> pro<g ref="char:EOLhyphen"/>nounced by the Biſhop himſelf. If he continue ſo Excommuni<g ref="char:EOLhyphen"/>cate forty Days, an <hi>Excommuni<g ref="char:EOLhyphen"/>cato Capiendo</hi> goes out againſt him,
+<pb n="8" facs="tcp:51642:7"/>
+and he is thereby Impriſoned.</p>
+               <p n="3">3. <hi>Anathamatiſmus,</hi> Againſt an obſtinate Heretick.</p>
+               <p n="4">4. <hi>Interdictum,</hi> Whereby he is prohibited all Divine Offices, as Chriſtian Burial, <hi>&amp;c.</hi>
+               </p>
+               <list>
+                  <head>The Puniſhment of the Cler<g ref="char:EOLhyphen"/>gy, is,</head>
+                  <item>1. <hi>Suſpenſio ab Officio.</hi>
+                  </item>
+                  <item>2. <hi>Suſpenſio a Beneficio.</hi>
+                  </item>
+                  <item>3. <hi>Deprivatio a Beneficio.</hi>
+                  </item>
+                  <item>4. <hi>Deprivatio ab Officio,</hi> which is degradation.</item>
+               </list>
+               <p>Having met with an old Diſ<g ref="char:EOLhyphen"/>courſe about Excommunication out of the <hi>Canterbury</hi> Book. I ſhall here ſet it down word for word as it was wrote in thoſe times.</p>
+               <floatingText xml:lang="eng" type="excerpt">
+                  <body>
+                     <pb n="9" facs="tcp:51642:7"/>
+                     <head>More of Excommunication, <hi>the Old Form.</hi>
+                     </head>
+                     <p>
+                        <hi>THE general Senſe of Execra<g ref="char:EOLhyphen"/>tion was uſually denounced four times a year; the Greater and the Leſſer Curſe. The</hi> Can<g ref="char:EOLhyphen"/>terbury <hi>Book ſaith,</hi> Wherefore ye Shullen, underſtand at the beginning, that this word Curſe, is thus much to ſay, as departing from God and Good Works: Of two manner of Curſing Holy Church telleth, the one is cleped the Laſſe Curſe, the other is cleped the More Curſe. That we clepen the Laſſe Curſe is of this ſtrength, that every man and woman that fall<g ref="char:EOLhyphen"/>eth therein, it departeth him from all the Sacraments that been in Holy Church, that they may none of them receive till they be aſſoyled, <hi>&amp;c.</hi> The More Curſe is much more worſe, and is of this ſtrength; for to de<g ref="char:EOLhyphen"/>part a man from God, and all the
+<pb n="10" facs="tcp:51642:8"/>
+Holy Church, and alſo from the Com<g ref="char:EOLhyphen"/>pany of all Chriſten Folk ne to be ſa<g ref="char:EOLhyphen"/>ved by the Paſſion of Chriſt, ne to be holpen by the Sacraments that been done in Holy Church, <hi>&amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>After repeating the Articles of the Curſe, the General Sentence was thundred out every Quarter, as the</hi> Canterbury <hi>Book ſaith,</hi> By the authority of our Lord God Al<g ref="char:EOLhyphen"/>mighty, and our Lady St. <hi>Mary,</hi> and all Saints of Heaven, of Angels or Archangels, Patriarks and Pro<g ref="char:EOLhyphen"/>phets, Evangeliſts, Apoſtles, Martyrs, Confeſſors and Virgins, alſo by the Power of all Holy Church, that our Lord Jeſus gave to St <hi>Peter:</hi> We denounce all thoſe Accurſed that we have thus reckned to you, and all thoſe that maintain 'em in her ſins, or given 'em hereto either help or councel, ſo that they be departed from God and all Holy Church, and that they have noe of the Paſſion of our Lord Jeſu Chriſt, ne of no Sacraments that been in Holy
+<pb n="11" facs="tcp:51642:8"/>
+Church, ne no part of the Prayers a<g ref="char:EOLhyphen"/>men Chriſten Folk, but that they be accurſed of God, and of Holy Church, from their ſoole of their foot unto the crowne of their head, ſleeping and Waking, ſitting and Standing, in all her words, and in all her Works, and but if they have grace of God for to amend 'em herein this Life, for to dwell in the Paine of Hell for ever withouten end <hi>(Fiat, Fiat,)</hi> doe to the Book, quench the Candle, ring the Bell, <hi>Amen, Amen.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Of Biſhops and Deans, Election, Conſecration, Inſtallation,</hi> &amp;c.</head>
+               <p>NEXT to the two Arch: biſhops are the Biſhops of <hi>London, Durham</hi> and <hi>Wincheſter,</hi> the order of the reſt being by no other rule, than the Priority of their Conſecration.</p>
+               <div type="section">
+                  <pb n="12" facs="tcp:51642:9"/>
+                  <head>The manner of making a Biſhop is thus.</head>
+                  <p>When a Biſhops Sea becomes va<g ref="char:EOLhyphen"/>cant, the Dean and Chapter give notice of it to the King, and re<g ref="char:EOLhyphen"/>queſt him to give them leave to chuſe another; whereupon the King grants them his <hi>Conge D'eſlire,</hi> i. e. leave to Elect, and uſually recommends one. Then the Dean ſummons a Chapter, and they Elect; and they certifie the Party Elected, who having ac<g ref="char:EOLhyphen"/>cepted it, it is certified to the King and the Arch-biſhop of the Province; whereupon the King gives his Royal Aſſent under the great Seal of <hi>England,</hi> which is exhibited to the Arch-biſhop of that Province, with command to Confirm and Conſecrate him; then the Arch-biſhop Subſcribes <hi>Fiat Confirmatio,</hi> and gives com<g ref="char:EOLhyphen"/>miſſion under his Epiſcopal Seal
+<pb n="13" facs="tcp:51642:9"/>
+to his Vicar general, to perform all Acts thereto required; after which the Biſhop elect takes the Oaths of Supremacy, Simony and Canonical Obedience.</p>
+                  <p>Sometime after this follows the Conſecration, which in the infe<g ref="char:EOLhyphen"/>riour Clergy is called Ordinati<g ref="char:EOLhyphen"/>on, which is performed by the Arch-biſhop of the Province, or ſome other Biſhop commiſſioned by him, with the aſſiſtance of two other Biſhops in the Arch-biſhops Chappel, upon a <hi>Sunday,</hi> or an Holyday after Morning Service.</p>
+                  <p>Next follows his Inſtallation by vertue of a <hi>Mandate</hi> from the Arch-biſhop, to the Arch deacon of his Province. This is per<g ref="char:EOLhyphen"/>formed in the Cathedral Church in the preſence of a publick nota<g ref="char:EOLhyphen"/>ry, and the Arch deacon, with the Petty Canons, accompany the Biſhop to the Quire, and there place him in a Seat prepared for
+<pb n="14" facs="tcp:51642:10"/>
+him, and <hi>Te Deum</hi> is Sung, and then the Biſhop is conducted into the Chapter-houſe; after this he is introduced into the King's Pre<g ref="char:EOLunhyphen"/>ſence to do his Homage for his Temporalities, or Barony; and then he compounds for the firſt Fruits of his Biſhoprick.</p>
+                  <p>The Biſhops write <hi>Divinae Per<g ref="char:EOLhyphen"/>miſſione,</hi> the Arch-biſhop writes himſelf <hi>Divina Providentia.</hi>
+                  </p>
+                  <p>The inferiour Biſhops are ſtiled right reverend Fathers in God, the Arch-biſhops moſt reverend.</p>
+                  <p>Deans, Arch-deacon and Pre<g ref="char:EOLhyphen"/>bendaries are the Dignified Cler<g ref="char:EOLhyphen"/>gy.</p>
+                  <p>Deans of the Old Foundations which were before the Suppreſ<g ref="char:EOLhyphen"/>ſion of Monaſteries, are brought to their Dignities much like Bi<g ref="char:EOLhyphen"/>ſhops: Whereas the Deans of the New Foundations (upon ſuppreſſi<g ref="char:EOLhyphen"/>on of Abbies are inſtalled a much ſhorter way by ve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tue of
+<pb n="15" facs="tcp:51642:10"/>
+the King's Letters Patents, with<g ref="char:EOLhyphen"/>out either Election or Confirma<g ref="char:EOLhyphen"/>tion. The chief of the Preben<g ref="char:EOLhyphen"/>daries is the Subdean, who ſup<g ref="char:EOLhyphen"/>plies the Deans Place in his Ab<g ref="char:EOLhyphen"/>ſence.</p>
+                  <p>The Archdeacons upon the Bi<g ref="char:EOLhyphen"/>ſhops Mandate are to induct Clerks into their Benefices.</p>
+                  <p>Vicars properly Officiate in thoſe Livings which are called Impropriations, of which there are in <hi>England</hi> no leſs than 3845. For above a third part of the beſt Benefices of <hi>England</hi> being an<g ref="char:EOLhyphen"/>ciently by the Popes Grant Ap<g ref="char:EOLhyphen"/>propiated to Monaſteries towards their Maintenance, were upon the diſſolution of the Monaſteries made Lay-Fees.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="16" facs="tcp:51642:11"/>
+               <head>CHAP. IV. <hi>A Chronological Table ſhewing in what Ages the Primitive Fathers lived, and Memorable things hap<g ref="char:EOLhyphen"/>ned; and ſome other Memoirs of Antient Times.</hi>
+               </head>
+               <p>ST. <hi>Peter</hi> and St. <hi>Paul</hi> ſuffered Martyrdom at <hi>Rome, Anno Chriſti.</hi> 65.</p>
+               <p>
+                  <hi>Jeruſalem</hi> Sackt and B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rnt, <hi>Ann. Chriſt.</hi> 70. And therein 110,000. of the <hi>Jews</hi> Periſh'd, and 9,000<g ref="char:punc">▪</g> taken Priſoners.</p>
+               <p>
+                  <hi>Linus</hi> Martyred at <hi>Rome, Anno</hi> 77.</p>
+               <p>
+                  <hi>Titus</hi> commands <hi>Joſephus</hi> his Hiſtory of the Jewiſh War to be laid up in the Library at <hi>Rome, Anno.</hi> 80.</p>
+               <p>The ſecond Perſecation, <hi>Anno</hi> 90.</p>
+               <p>
+                  <pb n="17" facs="tcp:51642:11"/>
+St. <hi>John</hi> wrote the Book of <hi>Re<g ref="char:EOLhyphen"/>velation, Anno</hi> 94.</p>
+               <p>St. <hi>Clemens</hi> Biſhop of <hi>Rome</hi> is thrown into the Sea, with an An<g ref="char:EOLhyphen"/>chor tied about his Neck, <hi>Anno</hi> 100.</p>
+               <p>The third Perſecution began 107. under <hi>Trajan.</hi>
+               </p>
+               <p>
+                  <hi>Ignatius</hi> Martyred by wild Beaſts, <hi>Anno.</hi> 107.</p>
+               <p>
+                  <hi>Oneſimus</hi> Stoned at <hi>Rome,</hi> 109.</p>
+               <p>The Fourth Perſecution under <hi>Adrian,</hi> 117.</p>
+               <p>
+                  <hi>Aquila</hi> a Kinſman of <hi>Adrian</hi> the Emperor, firſt turns Chriſtian and then Jew, Tranſlates the old Teſtament into Greek, <hi>Anno.</hi> 128.</p>
+               <p>
+                  <hi>Justin Martyr</hi> converted to Chriſtianity, <hi>Anno.</hi> 132.</p>
+               <p>
+                  <hi>Marcus</hi> the firſt of the <hi>Gentile</hi> Converts, made Biſhop of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> all hitherto having been of the Circumciſion, <hi>Anno.</hi> 135.</p>
+               <p>
+                  <hi>Juſtin Martyr</hi> preſents his Apo<g ref="char:EOLhyphen"/>logy to the Emperor in behalf of
+<pb n="18" facs="tcp:51642:12"/>
+the Chriſtians, <hi>Anno.</hi> 162.</p>
+               <p>
+                  <hi>Juſtin Martyr</hi> ſuffered Martyr<g ref="char:EOLhyphen"/>dom <hi>Anno.</hi> 163.</p>
+               <p>St. <hi>Polycarp</hi> Biſhop of <hi>Smyrna</hi> Martyred, <hi>Anno</hi> 167.</p>
+               <p>
+                  <hi>Pantaenus</hi> a Chriſtian Philoſo<g ref="char:EOLhyphen"/>pher opens the Catholick School at <hi>Alexandria, Anno.</hi> 180.</p>
+               <p>The Perſecution againſt the Chriſtians much abated after <hi>M. Aurelius</hi> his Victory over the <hi>Mar<g ref="char:EOLhyphen"/>comanni</hi> gained by the Prayers of the Chriſtian Legion, <hi>Anno.</hi> 174.</p>
+               <p>
+                  <hi>Lucius</hi> a King of <hi>Brittain</hi> ſends Letters to Pope <hi>Eleutherius</hi> for Chriſtian Preachers, <hi>Anno.</hi> 186.</p>
+               <p>
+                  <hi>Clemens Alexandrinus Pantaenus</hi> his Scholar and Succeſſor Fa<g ref="char:EOLhyphen"/>mous, <hi>Anno.</hi> 194.</p>
+               <p>Pope <hi>Victor</hi> revives the Contro<g ref="char:EOLhyphen"/>verſy about the Celebration of Eaſter, threatens to Excommuni<g ref="char:EOLhyphen"/>cate the <hi>Aſiatick</hi> Churches, for which he is ſeverely reproved by <hi>Iraeneus, Anno.</hi> 196.</p>
+               <p>
+                  <pb n="19" facs="tcp:51642:12"/>
+                  <hi>Tertullian</hi> Writes his Apology, <hi>Anno.</hi> 200.</p>
+               <p>Sixth Perſecution, wherein <hi>Ireneus</hi> ſuffers Martyrdom in <hi>France, Anno.</hi> 202. under <hi>Severus.</hi>
+               </p>
+               <p>
+                  <hi>Origen</hi> ſets up a School at <hi>Alex<g ref="char:EOLhyphen"/>andria, Anno.</hi> 203.</p>
+               <p>
+                  <hi>Minutius Felix</hi> flouriſhed <hi>A.</hi> 207.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lpian</hi> the Lawyer flouriſhed <hi>An.</hi> 223. who inſtigated a cruel Per<g ref="char:EOLhyphen"/>ſecution at <hi>Rome.</hi>
+               </p>
+               <p>
+                  <hi>Origen</hi> Perſecuted and Synodi<g ref="char:EOLhyphen"/>cally condemned by <hi>Demetrius</hi> Biſhop of <hi>Alexandria, Anno.</hi> 230.</p>
+               <p>
+                  <hi>Plotinus</hi> Scholar to <hi>Ammonius,</hi> 232</p>
+               <p>The ſeventh Perſecution under <hi>Maximinus, Anno</hi> 235.</p>
+               <p>
+                  <hi>Babylas</hi> choſen Biſhop of <hi>Anti<g ref="char:EOLhyphen"/>och, Anno.</hi> 239.</p>
+               <p>
+                  <hi>Cyprian</hi> choſen Biſhop of <hi>Carthage Anno.</hi> 248.</p>
+               <p>The Eighth Perſecution by <hi>De<g ref="char:EOLhyphen"/>cius, Anno</hi> 250.</p>
+               <p>Great Schiſms in the <hi>African</hi> Church about the <hi>Lapſed, Anno.</hi> 251.</p>
+               <p>
+                  <pb n="20" facs="tcp:51642:13"/>
+The Novatian Doctrin con<g ref="char:EOLhyphen"/>demned in a Synod of 60 Biſhops at <hi>Rome.</hi> 252.</p>
+               <p>The ninth Perſecution under <hi>Valerian, Anno.</hi> 257</p>
+               <p>St. <hi>Cyprian</hi> beheaded at <hi>Carthage, Anno.</hi> 258</p>
+               <p>
+                  <hi>Gallienus</hi> the Emperor ſtops the Perſecution againſt the Chriſtians, <hi>Anno.</hi> 260.</p>
+               <p>
+                  <hi>Paulus Samoſetanus</hi> Biſhop of <hi>An<g ref="char:EOLhyphen"/>tioch</hi> is Depoſed, and Condemned by a Synod at <hi>An<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>och, Anno.</hi> 270.</p>
+               <p>The <hi>Manichaean</hi> Hereſie ſprung up, <hi>Anno.</hi> 277.</p>
+               <p>
+                  <hi>Cyril</hi> the 18th Biſhop of <hi>Anti<g ref="char:EOLhyphen"/>och, Anno</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>78.</p>
+               <p>The Perſecution under <hi>Diocle<g ref="char:EOLhyphen"/>ſian, Anno</hi> 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</p>
+               <list>
+                  <head>Writings falſly attributed to <hi>Dyoni<g ref="char:EOLhyphen"/>ſius Areopagit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> (for the good of Students in Divinity, that they may not be impoſed on.)</head>
+                  <item>De Divinis Nominibus.</item>
+                  <item>
+                     <pb n="21" facs="tcp:51642:13"/>
+De Miſtica Theologia.</item>
+                  <item>Epiſtola ad Polycarpum.</item>
+                  <item>Epiſt, ad Titum.</item>
+                  <item>Epiſt, ad Johannem Evangeliſtam.</item>
+               </list>
+               <p>St. Clemens.</p>
+               <p>
+                  <hi>Epistola ad Corinthios,</hi> a genuine Writing, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as <hi>Photius</hi> ſtiles it, worthy all eſteem and veneration; it breaths the true Genius and Spirit of the Apoſto<g ref="char:EOLhyphen"/>lick Age.</p>
+               <p>
+                  <hi>Epiſt. ad Jacobum, Fratrem Do<g ref="char:EOLhyphen"/>mini,</hi> is ſuppoſititious, ſo are the <hi>Home<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iae Clementinae. Conſtitutiones &amp; Canones Apoſtolici.</hi>
+               </p>
+               <list>
+                  <head>
+                     <hi>Ignatius</hi> his Genuine Writing are.</head>
+                  <item>Ad Epheſios.</item>
+                  <item>Ad Trallianos.</item>
+                  <item>A Philadelphenos.</item>
+                  <item>Ad Magneſianos.</item>
+                  <item>Ad Romanos.</item>
+                  <item>Ad Smyneos.</item>
+               </list>
+               <p>
+                  <hi>Ad Polycarpum,</hi> the reſt ſuppo<g ref="char:EOLhyphen"/>ſitious.</p>
+               <list>
+                  <pb n="22" facs="tcp:51642:14"/>
+                  <head>
+                     <hi>Juſtin Martyr</hi>'s Genuine Writings.</head>
+                  <item>
+                     <hi>Paraeneſis ad Graecos.</hi>
+                  </item>
+                  <item>
+                     <hi>Apologia pro Chriſtiani,</hi> two Parts</item>
+                  <item>
+                     <hi>Dialogus cum Tryphone Judae.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Clemens Alexandrinus,</hi> his Genuine Writings.</head>
+                  <item>
+                     <hi>Proterxticon ad Gentes.</hi>
+                  </item>
+                  <item>
+                     <hi>Pedagogi, Lib.</hi> 3.</item>
+                  <item>
+                     <hi>Stromat. Lib.</hi> 3.</item>
+               </list>
+               <list>
+                  <head>Suppoſitious.</head>
+                  <item>
+                     <hi>Commentariola in</hi> 1. <hi>Epiſt. Petri.</hi>
+                  </item>
+                  <item>
+                     <hi>Epiſt. Judae &amp;</hi> 3 <hi>Epiſt.</hi> St. <hi>Johan<g ref="char:EOLhyphen"/>nis.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Tertullian,</hi> his chief Genuine Writings.</head>
+                  <item>Apologeticus.</item>
+                  <item>De Spectaculis.</item>
+                  <item>De Corona.</item>
+                  <item>Ad Nationes.</item>
+                  <item>De Idolatria.</item>
+                  <item>Ad Martyras.</item>
+                  <item>
+                     <pb n="23" facs="tcp:51642:14"/>
+De Patientia. De Virgin. Valandis.</item>
+                  <item>De Baptiſmo. adverſus Valentinianos.</item>
+                  <item>De Anima. De Reſurrectione.</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Cyprian,</hi> his Genuine Writings.</head>
+                  <item>
+                     <hi>Epiſtola ad Donatum.</hi>
+                  </item>
+                  <item>
+                     <hi>Epiſtolae</hi> 38. <hi>in ſeceſſu.</hi>
+                  </item>
+                  <item>
+                     <hi>Epistolae Variae.</hi> 8.</item>
+                  <item>
+                     <hi>De Diſciplina &amp; Habitu Virginum.</hi>
+                  </item>
+                  <item>
+                     <hi>De Lapiſis.</hi>
+                  </item>
+                  <item>
+                     <hi>De <g ref="char:V">Ʋ</g>nitate Eccleſiae Catholaecie.</hi>
+                  </item>
+                  <item>
+                     <hi>De Oratione Dominica.</hi>
+                  </item>
+                  <item>
+                     <hi>Ad Demetrianum.</hi>
+                  </item>
+                  <item>
+                     <hi>De Idolorum Vanitate.</hi>
+                  </item>
+                  <item>
+                     <hi>De Mortalitate.</hi>
+                  </item>
+                  <item>
+                     <hi>De Opera &amp; Eleemoſynis.</hi>
+                  </item>
+                  <item>
+                     <hi>De Bono Patientiae.</hi>
+                  </item>
+                  <item>
+                     <hi>De Zelo.</hi>
+                  </item>
+                  <item>
+                     <hi>De Exhortatione Martirii ad Fortu<g ref="char:EOLhyphen"/>natum.</hi>
+                  </item>
+                  <item>
+                     <hi>Teſtimonium adverſus Judaeos.</hi>
+                  </item>
+                  <item>
+                     <hi>Concilium Carthaginenſe.</hi>
+                  </item>
+                  <item>
+                     <hi>De Baptizandis Haereticis.</hi>
+                  </item>
+               </list>
+               <p>
+                  <pb n="24" facs="tcp:51642:15"/>
+St. <hi>Gregory Thaumaturgus,</hi> his Ge<g ref="char:EOLhyphen"/>nuine Writings.
+<list>
+                     <item>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>ad Origen.</hi>
+                     </item>
+                     <item>
+                        <hi>Metaphraſis in Eccleſiaſtem: </hi>
+                     </item>
+                     <item>
+                        <hi>B<gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>is Expoſicio Fidei.</hi>
+                     </item>
+                     <item>
+                        <hi>Epiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ola Canonic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Since the firſt General Councel at <hi>Nice</hi> againſt <hi>Arrius.</hi> 1351 years.</p>
+               <p>Since the ſecond General Coun<g ref="char:EOLhyphen"/>cel holden at <hi>Constantinople</hi> againſt the Hereſie of <hi>Macedonius,</hi> who denied the Deity of the Holy Ghoſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 1287 years.</p>
+               <p>Since the third General Coun<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nſt <hi>Pelagius</hi> and <hi>Neſtorius,</hi> held at <hi>Epheſus</hi> 1238 years. Sum<g ref="char:EOLhyphen"/>moned by <hi>Theodoſius</hi> the Second, where in <hi>Neſtorius</hi> himſelf was preſent. St. <hi>Cyril</hi> therein earneſtly contended for Chriſts Divinity, affirming him one and the ſame Son of God, begotten of the Fa<g ref="char:EOLhyphen"/>ther
+<pb n="25" facs="tcp:51642:15"/>
+before all Ages, and in the laſt times made Man of a Vir<g ref="char:EOLhyphen"/>gin; and that the Bleſſed Virgin ought properly and truly to be called θευτόχος, or the Mother of God. Hereat <hi>Neſtorius</hi> roſe up, and told them plainly he would not own a God that grew to Mans Eſtate by two or three Months, and ſo forth, and ſo waſhed his Hands, and would come no more into their company.</p>
+               <p>Since the fourth General Councel held at <hi>Chalcedon</hi> againſt the Hereſie of <hi>Eutyches,</hi> under <hi>Martian,</hi> 1216. Years</p>
+               <p>The <hi>Diocleſian</hi> Perſecution ſet on Foot, <hi>Anno</hi> 303.</p>
+               <p>
+                  <hi>Conſtantine</hi> the great, Emperor, <hi>Anno</hi> 306.</p>
+               <p>
+                  <hi>Euſebius Caeſarienſis</hi> flouriſhed <hi>Anno</hi> 229.</p>
+               <p>
+                  <hi>Euſebius</hi> wrote a Confutation of <hi>Hierocles</hi> who wrote againſt the Chriſtians, as <hi>Origen</hi> did againſt
+<pb n="26" facs="tcp:51642:16"/>
+                  <hi>Celſus</hi> and <hi>Porphyry.</hi>
+               </p>
+               <p>
+                  <hi>Arius</hi> began cunningly to broach his Hereſie in the time of <hi>Euſebius.</hi>
+               </p>
+               <p>The <hi>Nicene</hi> Councel ſummon<g ref="char:EOLhyphen"/>ed under <hi>Conſtantine, Anno</hi> 325.</p>
+               <p>
+                  <hi>Athanaſius</hi> choſen to the Sea of <hi>Alexandria, Anno</hi> 326.</p>
+               <p>318 Biſhops met at the <hi>Nicene</hi> Councel, they with their Attend<g ref="char:EOLhyphen"/>ants were Tranſported to <hi>Nice</hi> at the Emperors charge, and main<g ref="char:EOLhyphen"/>tained at his coſt, during their being there. 17 Biſhops appeared for the <hi>Arian</hi> Hereſie, wherein <hi>Con<g ref="char:EOLhyphen"/>stantine</hi> ſat as a publick Modera<g ref="char:EOLhyphen"/>tor, and <hi>Arius</hi> was baniſhed into <hi>Illyricum.</hi>
+               </p>
+               <p>In this Councel of <hi>Nice</hi> was de<g ref="char:EOLhyphen"/>bated the Paſchal Controverſy, concerning the time oi the Cele<g ref="char:EOLhyphen"/>bration of <hi>Eaſter,</hi> wherein the Chriſtian World was ſo much di<g ref="char:EOLhyphen"/>vided; the <hi>Eaſtern</hi> Churches ob<g ref="char:EOLhyphen"/>ſerving it after the <hi>Jewiſh</hi> Cuſtom,
+<pb n="27" facs="tcp:51642:16"/>
+on the 14th day after the Phaſis or Appearance of the Moon, the reſt on the next Lords Day after the Jewiſh Paſſover. A queſtion con<g ref="char:EOLhyphen"/>troverted from the very infancy of the Church: And in this Councel it was Univerſally agreed to follow the uſage of theſe Churches, whoſe cuſtom it had heen from all Anti<g ref="char:EOLhyphen"/>quity, to obſerve it on the Lord's Day next enſuing the Jewiſh Feſti<g ref="char:EOLhyphen"/>val. In this Councel likewiſe were digeſted Twenty Canons about Ec<g ref="char:EOLhyphen"/>cleſiaſtical Diſcipline, all extant, in<g ref="char:EOLhyphen"/>tire at this day.</p>
+               <p>A Synod holden by the <hi>Arians</hi> at <hi>Tyre,</hi> where they Try, Con<g ref="char:EOLhyphen"/>demn and Depoſe <hi>Athanaſius, Anno</hi> 334.</p>
+               <p>
+                  <hi>Athanaſius</hi> baniſhed to <hi>Triers</hi> by <hi>Constantine, Anno</hi> 336.</p>
+               <p>And releaſed by his Son <hi>Con<g ref="char:EOLhyphen"/>ſtantine, Anno.</hi> 337.</p>
+               <p>
+                  <hi>Arian</hi> Dies a ſudden and ſad Death, <hi>Anno</hi> 336.</p>
+               <p>
+                  <pb n="28" facs="tcp:51642:17"/>
+                  <hi>Constantine</hi> the Great Dies, <hi>Anno</hi> 337.</p>
+               <p>
+                  <hi>Conſtantius</hi> (to whoſe ſhare the <hi>Eaſtern</hi> Empire ſell) and his Em<g ref="char:EOLhyphen"/>preſs favour the <hi>Arrians.</hi>
+               </p>
+               <p>The Synod at <hi>Antioch,</hi> called <hi>Synodus in Encenys,</hi> Depoſeth <hi>Atha<g ref="char:EOLhyphen"/>naſius, Anno</hi> 341. But <hi>Athanaſius</hi> Purgeth himſelf at a Synod at <hi>Rome</hi> called by Pope <hi>Julius.</hi>
+               </p>
+               <p>The Synod at <hi>Sardica,</hi> where the <hi>Eastern</hi> Biſhops refuſe to joyn with them in the <hi>Weſt,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding which, <hi>Athanaſius</hi> is heard, abſolv'd and reſtor'd, <hi>Anno.</hi> 347.</p>
+               <p>
+                  <hi>Athanaſius</hi> condemned by the <hi>Arians</hi> in a <hi>Synod</hi> at <hi>Arles, Anno.</hi> 353.</p>
+               <p>
+                  <hi>Constantius,</hi> when the Ortho<g ref="char:EOLhyphen"/>dox Catholick Biſhop refuſed to Subſcribe the <hi>Arian</hi> Tenents, ſaid to them, <hi>What I command, let that be your Canon, either ſubmit or be baniſhed.</hi>
+               </p>
+               <p>
+                  <pb n="29" facs="tcp:51642:17"/>
+The deſperate attempts of the <hi>Arian</hi> Faction at <hi>Alexandria,</hi> un<g ref="char:EOLhyphen"/>der Count <hi>Syrinus,</hi> who with a party of 500 Soldiers broke into the Church, where the People were met for their common Devotion, and ſuddenly ruſht in with drawn Swords, Spears, Clubs, <hi>&amp;c.</hi> The Guards were ſet round the Church, and the Tragedy began, and there were multitudes Killed, Virgins Abuſed. <hi>Athanaſius</hi> ſat ſtill, till forced by the Monks through the Guards, narrowly eſcaped; the very <hi>Gentiles</hi> were aſhamed of their Actions. <hi>Athanaſius</hi> retired to the Wilderneſs, where he enjoyed the Company of devout Hermits; there were two ſorts of them <hi>Ere<g ref="char:EOLhyphen"/>mitae</hi> and <hi>Caenobitae,</hi> the firſt were wholly devoted to Solitude, and converſed with none but God and themſelves; the other kept in Soci<g ref="char:EOLhyphen"/>eties in the midſt of Cities; ande led Mortified Lives amidſt the noiſe and crowd.</p>
+               <p>
+                  <pb n="30" facs="tcp:51642:18"/>
+The <hi>Arians</hi> held the Son was not Conſubſtantial, or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in ſubſtance, and all things like to the Father.</p>
+               <p>The Councel at <hi>Ariminum,</hi> by <hi>Weſtern</hi> Biſhops, and at the ſame time another at <hi>Seleucia</hi> for the <hi>Eaſtern, Anno</hi> 359. The <hi>Nicene</hi> Creed confirmed.</p>
+               <p>
+                  <hi>Athanaſius</hi> Dies, <hi>Anno</hi> 371.</p>
+               <p>St. <hi>Hillary</hi> flouriſhed, <hi>Anno</hi> 385. he was Biſhop of <hi>Poictiers</hi> in <hi>France,</hi> and Died there, with this Epi<g ref="char:EOLhyphen"/>taph on his Tomb, ſavouring of the Poetry of that Age.</p>
+               <q>
+                  <l>Hilarius cubat hac fictavus Epiſ<g ref="char:EOLhyphen"/>copus <g ref="char:V">Ʋ</g>rna,</l>
+                  <l>Defenſor Noſtrae Terrificus fidei.</l>
+               </q>
+               <p>St. <hi>Hillary</hi>'s writings is in a Lan<g ref="char:EOLhyphen"/>guage Eloquent in its Kind, tho not chaſt and genuine; it being true what <hi>Eraſmus</hi> obſerves upon this occaſion, That the <hi>Roman</hi> Pro<g ref="char:EOLhyphen"/>vincials
+<pb n="31" facs="tcp:51642:18"/>
+(ſome few only excepted who were brought up at <hi>Rome)</hi> ſel<g ref="char:EOLhyphen"/>dom or never attained the purity and ſimplicity of the Latin Tongue, but betray an over anxi<g ref="char:EOLhyphen"/>ous Affection of Eloquence.</p>
+               <p>St. <hi>Baſil</hi> flouriſhed, <hi>Anno</hi> 370.</p>
+               <p>
+                  <hi>Prohaereſius</hi> was St. <hi>Baſil</hi>'s Tutor, a man greatly honoured by the Emperor <hi>Conſtans,</hi> who ſent him to <hi>Rome,</hi> where he was honoured with a Statue of Braſs, with this In<g ref="char:EOLhyphen"/>ſcription, Rome <hi>the Queen of Cities to the King of Eloquence.</hi>
+               </p>
+               <p>
+                  <hi>Baſil</hi> being made Biſhop of <hi>Caeſa<g ref="char:EOLhyphen"/>rea,</hi> was a ſtout defender of the <hi>Nicene</hi> Faith, <hi>Valens</hi> the Emperour intending to ſubdue the <hi>Eaſt</hi> to the Doctrine of <hi>Arins,</hi> came to <hi>Caeſa<g ref="char:EOLhyphen"/>rea,</hi> attended by <hi>Modestus</hi> the <hi>Preto<g ref="char:EOLhyphen"/>rean Prefect. Baſil</hi> is ſent for be<g ref="char:EOLhyphen"/>fore <hi>Modeſtus,</hi> and the Diſcourſe between them was in this manner.</p>
+               <p>
+                  <hi>Mod.</hi> What's the matter, <hi>Baſil,</hi> that you preſume to oppoſe ſo
+<pb n="32" facs="tcp:51642:19"/>
+great an Emperour above all the reſt? <hi>Baſ.</hi> What do you mean, Sir, what Arrogance do you ſpeak of? I vnderſtand you not! <hi>Mod.</hi> I mean your refuſing to comply with the Emperour's Religion, when all o<g ref="char:EOLhyphen"/>thers have ſtruck ſail to it. <hi>Baſ.</hi> But that is inconſiſtent with the Com<g ref="char:EOLhyphen"/>mand and Will of my Soveraign Emperour; nor can I ever be brought to worſhip a Creature, or one that is a made God. <hi>Mod.</hi> What then do you make of us? <hi>Baſil.</hi> Nothing at all, ſo long as you command ſuch things as theſe. <hi>Mod.</hi> But tell me, do not you think it a great Honour to come over to us? <hi>Baſ.</hi> I grant you to be illuſtri<g ref="char:EOLhyphen"/>ous Perſons; yet you are not more Honourable than God. And, know ſir, Chriſtianity is to be mea<g ref="char:EOLhyphen"/>ſured not by Dignity of Perſons, but ſoundneſs of the Faith. The Prefect in a Paſſion ſtarted out of his Chair and proceeded in a ſharp<g ref="char:EOLhyphen"/>er
+<pb n="33" facs="tcp:51642:19"/>
+ſtrain. <hi>Mod.</hi> What, then you are not afraid of the Power we are armed with? <hi>Baſ.</hi> What can happen, what can I ſuffer? <hi>Mod.</hi> Any one of thoſe things that are within my Power. <hi>Baſ.</hi> What are they? Confiſcation of Goods, Ba<g ref="char:EOLhyphen"/>niſhment, Tortures, or Death? or if there be any thing worſe than theſe, threaten that; for of theſe there is none can reach us. <hi>Mod.</hi> How ſo? <hi>Baſ.</hi> He is not obnoxious to Confiſcation who hath nothing to loſe, unleſs you want theſe old tat<g ref="char:EOLhyphen"/>tered Cloathes, and a few Books, wherein conſiſts my whole Eſtate. Baniſhment I regard not, who am tied to no place; the whole Earth is God's, whoſe Pilgrim and Stranger I am. As for Tortures, what can they do, where there's not a Body to bear them? Set aſide the firſt blow, and there's nothing elſe with<g ref="char:EOLhyphen"/>in your Power. And then for Death, I ſhall eſteem it a Kindneſs
+<pb n="34" facs="tcp:51642:20"/>
+and Benefit; it will but ſooner ſend me to God. Uſe your Pleaſure<hi>:</hi> Let the Emperour know, you ſhall never prevail with us to confede<g ref="char:EOLhyphen"/>rate with that impious Sect. As for the Advantage you propound to me, and the Favour of the Empe<g ref="char:EOLhyphen"/>rour, offer theſe things to Boys and Children, who are wont to be caught with ſuch gawdy Baits. I highly value the Emperour's Fa<g ref="char:EOLhyphen"/>vour, when I can have it with Pie<g ref="char:EOLhyphen"/>ty, and the Favour of Heaven; but without that, I look upon it as per<g ref="char:EOLhyphen"/>nicious and deadly.</p>
+               <p>
+                  <hi>Nazianzen</hi> flouriſht <hi>An.</hi> 371. and is made Biſhop of <hi>Conſtantinople.</hi>
+               </p>
+               <p>
+                  <hi>Theodoſius</hi> promotes the Catho<g ref="char:EOLhyphen"/>lick Faith againſt the <hi>Arrians,</hi> An. 380.</p>
+               <p>The Second General Council holden at <hi>Conſtantinople,</hi> An. 381. wherein was Ratified the <hi>Nicene</hi> Creed, which our Church hath a<g ref="char:EOLhyphen"/>dopted into her ſolemn Liturgy;
+<pb n="35" facs="tcp:51642:20"/>
+which is an Explanation of the old <hi>Nicene</hi> Creed, eſpecially about the Article of the holy Ghoſt. In this Council were condemned the <hi>Sa<g ref="char:EOLhyphen"/>bellian, Marcellian, Photinian, Euno<g ref="char:EOLhyphen"/>mian, Apollmarian,</hi> and <hi>Macedonian</hi> Hereſies, a ſhort account whereof is as followeth.</p>
+               <p>
+                  <hi>Sabellius</hi> aſſerted the Father, Son, and holy Ghoſt, are but one and the ſame Perſon, diſtinguiſhed only by Three ſeveral Names, and that by Vertue of this Oneneſs of Per<g ref="char:EOLhyphen"/>ſons, the Father might be ſaid to ſuffer, whence they are ſometimes ſtiled Patripaſſians.</p>
+               <p>
+                  <hi>Marcllus,</hi> Biſhop of <hi>Ancyra,</hi> held, that Chriſt began to be the Son of God at his Incarnation, and that his Kingdom ſhall continue to the day of Judgment, and then ceaſe. In oppoſition to this the Councel particularly level'd that clauſe in the <hi>Creed, whoſe Kingdom ſhall have no end.</hi>
+               </p>
+               <p>
+                  <pb n="36" facs="tcp:51642:21"/>
+                  <hi>Photius</hi> Biſhop of <hi>Sirmium,</hi> held Chriſt a meer Man, and received the begiuning of his Exiſtence from the Virgin <hi>Mary.</hi>
+               </p>
+               <p>
+                  <hi>Aetius</hi> the Author of the <hi>Euno<g ref="char:EOLhyphen"/>mean Haereſie,</hi> he corrupted the very <hi>Arian</hi> Hereſie; and held the Son altogether unlike in Nature and Subſtance to the Father.</p>
+               <p>
+                  <hi>Apollinaris</hi> Biſhop of <hi>Laodicea,</hi> held our Lord aſſumed a Body without an human Soul, his Di<g ref="char:EOLhyphen"/>vinity ſupplying the room of that, and that the Son of God brought his fleſh along with him, when he came from Heaven.</p>
+               <p>
+                  <hi>Macedonius</hi> denied the Divinity of the Holy Ghoſt; and that was the chief reaſon of calling the ſe<g ref="char:EOLhyphen"/>cond general councel.</p>
+               <p>
+                  <hi>Nazianzen</hi> in his Writings at<g ref="char:EOLhyphen"/>tained to the true temper of the <hi>Grecian</hi> Eloquence. <hi>Baſil</hi> excelled in the Panegyrick way. <hi>Nazean<g ref="char:EOLhyphen"/>zen's</hi> ſtile is more Malculine; he
+<pb n="37" facs="tcp:51642:21"/>
+did ſometimes too far indulge the vein of Oratory, eſpecially in his <hi>Encomiaſticks,</hi> wherein he ſome<g ref="char:EOLhyphen"/>times takes a liberty of making addreſſes to the dead, which ſuc<g ref="char:EOLhyphen"/>ceeding Superſtition improved to formal invocation: he did it with heſitancy <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> if any ſenſe be in departed Souls, of things here below, and ſo.</p>
+               <list>
+                  <head>More <hi>Oratorio.</hi>
+                  </head>
+                  <item>St. <hi>Ambroſe</hi> made Biſhop of <hi>Mi<g ref="char:EOLhyphen"/>lan, Anno</hi> 374.</item>
+                  <item>St. <hi>Auſtin</hi> comes to <hi>Milan,</hi> and is converted by the Sermons of St. <hi>Ambroſe,</hi> 385.</item>
+                  <item>
+                     <hi>Chryſoſtom</hi> conſecrated Biſhop of <hi>Conſtantinople Anno</hi> 398.</item>
+                  <item>St. <hi>Auſtin</hi> ordained Biſhop of <hi>Hippo, Anno</hi> 395.</item>
+               </list>
+               <p>
+                  <hi>Chryſoſtom</hi> condemned and depo<g ref="char:EOLhyphen"/>ſed in the Synod <hi>ad quercum</hi> and baniſht, but ſoon after recalled and acquitted in another Synod, <hi>Anno</hi> 403.</p>
+               <p>
+                  <pb n="38" facs="tcp:51642:22"/>
+                  <hi>Chriſoſtom</hi> again condemned and baniſhed, <hi>Anno</hi> 404. by the inſti<g ref="char:EOLhyphen"/>gation of the Empreſs <hi>Eudoxia.</hi>
+               </p>
+               <p>After which <hi>Chriſoſtom</hi> under<g ref="char:EOLhyphen"/>went grievous perſecutions, and ſuffered many perils by travelling up and down ſtrange Countries, by the malicious contrivance of his Enemies, till he was releas'd by death at <hi>Comana Portica,</hi> and was buried there in the Tomb of St. <hi>Baſilifcus</hi> the Martyr.</p>
+               <list>
+                  <head>
+                     <hi>Euſebius</hi> his genuine Works.</head>
+                  <item>
+                     <hi>De Preparatione Evangelica,</hi> lib. 15.</item>
+                  <item>
+                     <hi>De Demonſtratione Evangelia.</hi>
+                  </item>
+                  <item>
+                     <hi>Contra Hieroclem.</hi>
+                  </item>
+                  <item>
+                     <hi>Contra Marcellum.</hi>
+                  </item>
+                  <item>
+                     <hi>De Eccleſiaſtica Theologia.</hi>
+                  </item>
+                  <item>
+                     <hi>Chronicon.</hi>
+                  </item>
+                  <item>
+                     <hi>Hiſtoriae Eccleſiaſticae,</hi> lib. 10.</item>
+                  <item>
+                     <hi>De Vita Conſtantini.</hi>
+                  </item>
+                  <item>
+                     <hi>Oratio de Laudibus Conſtantini.</hi>
+                  </item>
+                  <item>
+                     <hi>De Locis Hebraicis.</hi>
+                  </item>
+                  <item>
+                     <pb n="39" facs="tcp:51642:22"/>
+                     <hi>Epiſt. ad Caeſarienſes de fide Ni<g ref="char:EOLhyphen"/>caena.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Nazianzen</hi>'s genuine Works, moſt of them.</head>
+                  <item>
+                     <hi>Apologeticus de fuga ſua.</hi>
+                  </item>
+                  <item>
+                     <hi>In Julianum Imp. Invictivae duae.</hi>
+                  </item>
+                  <item>
+                     <hi>Oratio post editum ex fuga.</hi>
+                  </item>
+                  <item>
+                     <hi>Oratio ad Gregorium Nyſſenum.</hi>
+                  </item>
+                  <item>
+                     <hi>Oratio de ſuis Sermonibus.</hi>
+                  </item>
+                  <item>
+                     <hi>Oratio funebris in laudem Caeſarii Fratrii.</hi>
+                  </item>
+                  <item>
+                     <hi>De Pace Orat.</hi> 3.</item>
+                  <item>
+                     <hi>Oratio de Pauperum Amore.</hi>
+                  </item>
+                  <item>
+                     <hi>In Laudem Cypriani Martyris.</hi>
+                  </item>
+                  <item>
+                     <hi>Oratio Funebris in Laudem Baſil. Mag.</hi>
+                  </item>
+                  <item>
+                     <hi>Oratio in Laudem mag. Athanaſii.</hi>
+                  </item>
+                  <item>
+                     <hi>Oratio de moderatione in diſputando.</hi>
+                  </item>
+                  <item>
+                     <hi>Oratio de Dogmate &amp; Conſtitutione Epiſcoporum.</hi>
+                  </item>
+                  <item>
+                     <hi>Oratio in preſentia</hi> 150 <hi>Epiſcoporum habita.</hi>
+                  </item>
+                  <item>
+                     <hi>De Theologia Oration.</hi> 5.</item>
+                  <item>
+                     <pb n="40" facs="tcp:51642:23"/>
+                     <hi>Oratio Panegyrica in Chriſti nativi<g ref="char:EOLhyphen"/>tatem.</hi>
+                  </item>
+                  <item>
+                     <hi>In Sanct. Baptiſma.</hi>
+                  </item>
+                  <item>
+                     <hi>In Paſcha,</hi> 2.</item>
+                  <item>
+                     <hi>In Novam Dominicam.</hi>
+                  </item>
+                  <item>
+                     <hi>In Sanctam Pentecoſten.</hi>
+                  </item>
+                  <item>
+                     <hi>In Laudem Martyrum &amp; adverſus Arianos.</hi>
+                  </item>
+                  <item>
+                     <hi>Tract. de fide Lat.</hi>
+                  </item>
+                  <item>
+                     <hi>Epiſtolae</hi> 242.</item>
+                  <item>
+                     <hi>Teſtamentum.</hi>
+                  </item>
+                  <item>
+                     <hi>Poemata</hi> 64. <hi>alia</hi> 78.</item>
+                  <item>
+                     <hi>De Epiſcopis, &amp; de hominum in<g ref="char:EOLhyphen"/>gratitudine Querela.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Suppoſititious.</head>
+                  <item>Metaphraſis in Eccleſiaſtem. Hoc eſt opus Gregorii Thaumaturgi.</item>
+                  <item>Chriſtus Patiens. Tragaedia.</item>
+               </list>
+               <list>
+                  <pb n="41" facs="tcp:51642:23"/>
+                  <head>
+                     <hi>St.</hi> Epiphanius<hi>'s</hi> genuine Wri<g ref="char:EOLhyphen"/>tings, his Stile was Mean, but but the Matter weighty.</head>
+                  <item>
+                     <hi>Panarium, five Adverſus Haereſes</hi> LXXX. a Choice Book.</item>
+                  <item>
+                     <hi>Ancoratus, ſeu de fide Sermo.</hi>
+                  </item>
+                  <item>
+                     <hi>Aenacephalaeoſis, ſeu Panarii Epi<g ref="char:EOLhyphen"/>tome.</hi>
+                  </item>
+                  <item>
+                     <hi>De Ponderibus &amp; Menſuris Liber.</hi>
+                  </item>
+                  <item>
+                     <hi>Epiſtola ad Johannem Hieroſolymi<g ref="char:EOLhyphen"/>tanum, Lat.</hi>
+                  </item>
+                  <item>
+                     <hi>Ad Hieronimum Epistola, Lat.</hi>
+                  </item>
+               </list>
+               <p>The firſt Martyr in <hi>Brittain</hi> was St <hi>Alban,</hi> under <hi>Diocleſian</hi>'s perſecution.</p>
+               <p>Some will have 100 Chriſtians martyred at <hi>Liechfield,</hi> which in the Brittiſh-tongue ſignifies <hi>Golgo<g ref="char:EOLhyphen"/>tha.</hi> In alluſion thereto the City Arms are a Field Surcharged with Dead Bodies.</p>
+               <p>
+                  <hi>Anno</hi> 401. <hi>Arrianiſm</hi> having got a little riddance in <hi>Brittain, Pela<g ref="char:EOLhyphen"/>gianiſm</hi> ſucceeded.</p>
+               <p>
+                  <pb n="42" facs="tcp:51642:24"/>
+                  <hi>Pelagius</hi> was born in <hi>Brittain,</hi> his name <hi>Morgan,</hi> i. e. near the Sea. Hence his Latin Name. And the ſame day <hi>Pelagius</hi> was born in <hi>Brittain.</hi> St. <hi>Austin</hi> was born in <hi>Africk<g ref="char:punc">▪</g>
+                  </hi> His main Errors are,</p>
+               <p n="1">1. That no man can be ſaved without Gods Grace by his own Mirits and Free will.</p>
+               <p n="2">2. That Infants were born with<g ref="char:EOLhyphen"/>out Original Sin.</p>
+               <p n="3">3. That they were Baptiſed, not to be freed from ſin, but thereby to be adopted into the Kingdom of God.</p>
+               <p n="4">4. That <hi>Adam</hi> died not by rea<g ref="char:EOLhyphen"/>ſon of his ſin, but by the conditi<g ref="char:EOLhyphen"/>on of nature.</p>
+               <p>
+                  <hi>Germanus</hi> and <hi>Lupus,</hi> two <hi>French</hi> Biſhops came and diſputed with the <hi>Pelagian</hi> Doctors, and confu<g ref="char:EOLhyphen"/>ted them.</p>
+               <p>
+                  <hi>Anno</hi> 501. <hi>Arthur</hi> flouriſhed in <hi>Brittain.</hi> It is more than comes to the proportion of <hi>Brittain,</hi> that
+<pb n="43" facs="tcp:51642:24"/>
+amongſt but nine Worthies in the whole World, two ſhould prove Natives of this Iſland, <hi>Conſtantine</hi> and <hi>Arthur.</hi> That there was an <hi>Arthur</hi> is certain, for his Corps, Coffin and Epitaph were taken out of his Monument at <hi>Glaſſen<g ref="char:EOLhyphen"/>bury,</hi> in the reign of King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> II.</p>
+               <p>
+                  <hi>Anno</hi> 585. Pope <hi>Gregory</hi> ſent <hi>Auguſtine</hi> the Monk, and <hi>Melitus</hi> and forty more to preach the Goſpel in <hi>Brittain:</hi> he brought In<g ref="char:EOLhyphen"/>terpreters with him out of <hi>France.</hi>
+               </p>
+               <list>
+                  <head>The <hi>Pagan</hi> Idols worſhipt in <hi>Brittain</hi> were,</head>
+                  <item>
+                     <hi>Thur.</hi> i. e. <hi>Jupiter;</hi> hence <hi>dies Jovis, Thurſday.</hi>
+                  </item>
+                  <item>
+                     <hi>Woden.</hi> i. e. <hi>Mercurius;</hi> hence <hi>dies Mercury, Wedneſday.</hi>
+                  </item>
+                  <item>
+                     <hi>Frea.</hi> i. e. <hi>Venus;</hi> hence <hi>Friday.</hi>
+                  </item>
+                  <item>
+                     <hi>Seater.</hi> i. e. <hi>Saturn;</hi> hence <hi>Saturday.</hi>
+                  </item>
+                  <item>
+                     <hi>Tuiſco, Mars;</hi> ſince <hi>Tueſday.</hi>
+                  </item>
+               </list>
+               <p>The Old Chriſtian <hi>Brittains</hi> ſerved God in the Mountains, and
+<pb n="44" facs="tcp:51642:25"/>
+cared not for <hi>Auſtins</hi> alamode ce<g ref="char:EOLhyphen"/>remonies.</p>
+               <p>
+                  <hi>Anno</hi> 601. The Archbiſhoprick was tranſlated from <hi>London</hi> to <hi>Can<g ref="char:EOLhyphen"/>terbury<g ref="char:punc">▪</g> Auſtin</hi> was Archbiſhop, he calls a Councel of <hi>Saxon</hi> and <hi>Brittain</hi> Biſhops, where the Abbot of <hi>Bangor</hi> ſpake as the mouth of the reſt; we are under the Go<g ref="char:EOLhyphen"/>vernment of the Biſhop of <hi>Carli<g ref="char:EOLhyphen"/>on</hi> upon <hi>
+                     <g ref="char:V">Ʋ</g>ske,</hi> and above him unto God, without any ſubordina<g ref="char:EOLhyphen"/>tion to <hi>Rome.</hi> So that Religion came into <hi>Brittain,</hi> not by the ſe<g ref="char:EOLhyphen"/>micircle of <hi>Rome,</hi> but in a direct line from the <hi>Aſiatick</hi> Churches. Hereupon <hi>Auſtin</hi> ſtirred up <hi>Ethel<g ref="char:EOLhyphen"/>bert,</hi> King of <hi>Kent,</hi> to ſend to the <hi>Pagan</hi> King of <hi>Northumberland</hi> to murder 1200 Monks of <hi>Ban<g ref="char:EOLhyphen"/>gor.</hi>
+               </p>
+               <p>
+                  <hi>Anno</hi> 632. <hi>Sigebert,</hi> King of <hi>Eaſtangles,</hi> builded <hi>Cambridge; Bede</hi> calls him <hi>Chriſtianiſmus, &amp; Doct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſimus.</hi>
+               </p>
+               <p>
+                  <pb n="45" facs="tcp:51642:25"/>
+                  <hi>Anno</hi> 640. The firſt <hi>Lent</hi> was kept in <hi>England.</hi>
+               </p>
+               <p>In the ſpace of 82 years the whole <hi>Saxon</hi> Heptarchy was con<g ref="char:EOLhyphen"/>verted to Chriſtianity.</p>
+               <p>
+                  <hi>Anno</hi> 709. A Synod was called at <hi>London</hi> to introduce into <hi>Eng<g ref="char:EOLhyphen"/>land</hi> the Doctrine of Image<g ref="char:punc">▪</g>wor<g ref="char:EOLhyphen"/>ſhip. <hi>Binnius</hi> and <hi>Baronius</hi> ſay it was brought in by St. <hi>Auſtin</hi> the Monk. But it is very improba<g ref="char:EOLhyphen"/>ble <hi>Auſtin</hi> would deliver a Do<g ref="char:EOLhyphen"/>ctrine point blank againſt <hi>Gregory</hi> that ſent him, who moſt zealou<g ref="char:EOLhyphen"/>ſly inveighed againſt all worſhip of Images in his Epiſtle <hi>ad Sere<g ref="char:EOLhyphen"/>num Maſſilienſem.</hi>
+               </p>
+               <p>Venerable <hi>Bede</hi> was born in this Age. St. <hi>Bede</hi> was too much while he lived, but Venerable was a fit <hi>medium.</hi>
+               </p>
+               <p>
+                  <hi>Anno</hi> 790. The Archbiſhoprick was tranſlated from <hi>Canterbury</hi> to <hi>Liechfield</hi> by <hi>Offa,</hi> King of <hi>Mercia</hi> and Pope <hi>Adrian,</hi> but ſoon after
+<pb n="46" facs="tcp:51642:26"/>
+it was reſtored back to <hi>Canter<g ref="char:EOLhyphen"/>bury.</hi>
+               </p>
+               <p>
+                  <hi>Anno</hi> 867. The <hi>Danes</hi> enter in<g ref="char:EOLhyphen"/>to the heart of <hi>England,</hi> and burnt the Abby at <hi>Peterburrough,</hi> which was fifteen days a burning; and ſlew the Monks, who were buri<g ref="char:EOLhyphen"/>all in a grave, where one may have four yards ſquare of Mar<g ref="char:EOLhyphen"/>tyrs duſt, which no place in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> elſe doth afford.</p>
+               <p>In theſe four laſt Centuries,</p>
+               <p>Scriptures were generally read.</p>
+               <p>The Original was preferred.</p>
+               <p>No Prayers for the dead in na<g ref="char:EOLhyphen"/>ture of propitiation, but only commemoration.</p>
+               <p>Communion was under both kinds<g ref="char:punc">▪</g>
+               </p>
+               <p>
+                  <hi>Anno</hi> 1067. A conteſt was be<g ref="char:EOLhyphen"/>twixt the Monks of <hi>Glaſſenbury,</hi> and <hi>Thurſtan</hi> their <hi>Norman</hi> Abbot, he obtruding a ſervice upon them which they diſliked; hence <hi>Oſ<g ref="char:EOLhyphen"/>mond,</hi> Biſhop of <hi>Sarisbury,</hi> made
+<pb n="47" facs="tcp:51642:26"/>
+a Liturgy for all <hi>England;</hi> hence the Old Saying, <hi>Secundum uſum Sarum.</hi>
+               </p>
+               <p>
+                  <hi>Anno</hi> 1138. <hi>Theobald,</hi> Archbi<g ref="char:EOLhyphen"/>ſhop of <hi>Canterbury,</hi> was ſtiled <hi>Le<g ref="char:EOLhyphen"/>gatus natus,</hi> which from him was entayled on this See.</p>
+               <p>
+                  <hi>Nicholas Breakſpeakers</hi> was Pope, by the Name of <hi>Adrian</hi> the Fourth. We never had but four Popes and an half, I mean Cardinal <hi>Pool</hi> Pope Elect.</p>
+               <p>St. <hi>Davids</hi> may vie Archiepiſco<g ref="char:EOLhyphen"/>pal juriſdiction before <hi>Canterbury,</hi> as being firſt Chriſtian, as the old verſe hath it about the proporti<g ref="char:EOLhyphen"/>on of pardons given to Pilgrims viſiting Religious Places,</p>
+               <p>
+                  <hi>Roma ſemel quantum bis dat Menevia tantum.</hi>
+               </p>
+               <p>
+                  <hi>Anno</hi> 1205. Pope <hi>Innocent</hi> the third aſſoyled all the Engliſh Sub<g ref="char:EOLhyphen"/>jects of their Allegiance from
+<pb n="48" facs="tcp:51642:27"/>
+King <hi>John. John</hi> after granted his Kingdom to the Pope by <hi>Pan<g ref="char:EOLhyphen"/>dulphus,</hi> who kept the Crown five days in his hands, then it was King <hi>Innocent.</hi>
+               </p>
+               <p>
+                  <hi>Anno.</hi> 1254. About this time the Popes oppreſſion began to grow intollerable; for it appeared that the Eccleſiaſtical Revenues of <hi>Ita<g ref="char:EOLhyphen"/>lians<g ref="char:punc">▪</g>
+                  </hi> in <hi>England</hi> amounted to threeſcore and ten thouſand marks <hi>per annum,</hi> whereas the King's income at that time was hardly twenty thouſand.</p>
+               <p>King <hi>Edward</hi> I. expelled the <hi>Jews</hi> out of <hi>England,</hi> they ſeated in <hi>Germany</hi> and <hi>Italy,</hi> where the profit from <hi>Jews</hi> and Stews much advanced the revenues of the Pope.</p>
+               <p>
+                  <hi>Anno</hi> 1341. In this Age the Schoolmen were at the heighth, <hi>England</hi> had the beſt of all, and the moſt. <hi>Hales</hi> Doctor <hi>Irrefragabi<g ref="char:EOLhyphen"/>lis. Roger Bacon.</hi> Doctor <hi>Mirabils.</hi>
+                  <pb n="49" facs="tcp:51642:27"/>
+                  <hi>John Duns Scotus.</hi> Doctor <hi>Subtilis. John Baconthrop.</hi> Doctor <hi>Reſolutus. William Occam.</hi> Doctor <hi>Singularis. Pater Nominalium.</hi> Doctor <hi>Brad<g ref="char:EOLhyphen"/>wardine.</hi> Doctor <hi>Profundus.</hi>
+               </p>
+               <p>
+                  <hi>Anno</hi> 1336. A ſurvey was exa<g ref="char:EOLhyphen"/>ctly taken of all the Clergies Glebe Land, and the ſame was returned into the <hi>Exchequer,</hi> and is at this day the moſt effectual Record for <hi>Clery-men</hi> (and for Im<g ref="char:EOLhyphen"/>propriators under their claim) to recover their right.</p>
+               <p>
+                  <hi>Anno.</hi> 137<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Wickliff</hi> began to appear.</p>
+               <p>About this time was a dangerous Diſcord at <hi>Rome</hi> about 40 years be<g ref="char:EOLhyphen"/>gun between <hi>
+                     <g ref="char:V">Ʋ</g>ban</hi> 6 and <hi>Clement</hi> 7. The one living at <hi>Rome,</hi> the other reſiding at <hi>Avinian.</hi>
+               </p>
+               <p>The Papal Power in <hi>England</hi> fell by degrees. Firſt by the ſtate of <hi>Mortmain</hi> in <hi>Ed.</hi> I. More by the Stat. of Proviſion in <hi>Ed.</hi> III. More by the Stat. of <hi>Praemunire</hi> in <hi>Rich.</hi>
+                  <pb n="50" facs="tcp:51642:28"/>
+II. time. This mauled the Popes Power in <hi>England.</hi> Pope <hi>Martin</hi> ſadly complained of it to the Duke of <hi>Bedford. Miramur</hi> (ſaith he) <hi>ſtu<g ref="char:EOLhyphen"/>peſcimus dolemus execrabile ſtatutu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </p>
+               <p>
+                  <hi>Lollards,</hi> ſo called from <hi>Walter Lollardus</hi> a Teacher in <hi>Germany,</hi> ſome years before <hi>Wickle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff:</hi> Their Doctrines were much the ſame.</p>
+               <p>
+                  <hi>Anno</hi> 1434. began that ſmart and active Councel at <hi>Baſil.</hi>
+               </p>
+               <p>In the beginning of <hi>Hen.</hi> VIII. time, the poor <hi>Lollards</hi> had a mark on their Cloaths, <hi>put it off and be Burned, keep it on and be ſtarved.</hi>
+               </p>
+               <p>
+                  <hi>Henry Beauford,</hi> Biſhop of <hi>Win<g ref="char:EOLhyphen"/>cheſter,</hi> lent <hi>Hen. III.</hi> at once 20000 <hi>l.</hi> who pawned his Crown to him.</p>
+               <p>Pope <hi>Clement</hi> was impriſoned by the Emperour, whereupon one ſaid, <hi>Papa<g ref="char:punc">▪</g> non poteſt errare.</hi>
+               </p>
+               <p>Canons made in a Convocation with the Royal Aſſent, ſubject not any (for recuſancy to obey them)
+<pb n="51" facs="tcp:51642:28"/>
+to a civil Penalty in Perſon or Pro<g ref="char:EOLhyphen"/>priety, unleſs confirmed by act of Parliament.</p>
+               <p>In King <hi>Edward</hi> the <hi>VI.</hi> days Non-conformity was conceived.</p>
+               <p>In Q. <hi>Mary's</hi> days (but at <hi>Franck<g ref="char:EOLhyphen"/>ford)</hi> was Born.</p>
+               <p>In Q. <hi>Elizab.</hi> days was nurſt, under King <hi>James</hi> it grew a tall Youth, and under K. <hi>Charles,</hi> a Man able to conquer the <hi>Hierarchy</hi> its adverſary.</p>
+               <p>Biſhop <hi>Bonners</hi> Fury reached from <hi>John Fetty,</hi> a Lad of eight years old, by him Scourged to Death, even to <hi>Hugh Laverock</hi> a cripple of 68 years old, whom he cauſed to be Burnt.</p>
+               <p>In Q. <hi>Mary</hi>'s days ſome eminent Profeſſors, as <hi>Fox, Bale, Grindale, &amp;c.</hi> fled to <hi>Straſburg, Zurich</hi> and <hi>Franckford:</hi> They in <hi>Strasburg</hi> were of the moſt quiet Temper, <hi>Zurich</hi> had the greateſt Scholars, and <hi>Franckford</hi> the largeſt Privi<g ref="char:EOLhyphen"/>ledges.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="52" facs="tcp:51642:29"/>
+               <head>CHAP. V. <hi>A particular of the Archbiſhopricks and Biſhopricks, with their Arch<g ref="char:EOLhyphen"/>deaconaries, and their extent, with the Clergies Tenths, and their va<g ref="char:EOLhyphen"/>luations in the King's Books.</hi>
+               </head>
+               <p>
+                  <hi>CAnterbury</hi> hath only one Arch<g ref="char:EOLhyphen"/>deacon, which is of <hi>Canter<g ref="char:EOLhyphen"/>bury.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>The Clergies Tenth comes to</cell>
+                        <cell>651</cell>
+                        <cell>18</cell>
+                        <cell>2</cell>
+                        <cell>q</cell>
+                     </row>
+                     <row>
+                        <cell>Archbiſhoprick valued in the K's. Book at—</cell>
+                        <cell>2816</cell>
+                        <cell>17</cell>
+                        <cell>9</cell>
+                        <cell>q</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>St. <hi>Aſaph,</hi> it contains part of <hi>Denbigh, Flint, Montgomery, Merio<g ref="char:EOLhyphen"/>neth,</hi> and ſome Towns in <hi>Salop;</hi> in it are 121 Pariſhes, moſt of them in the Patronage of the Biſhop; it
+<pb n="53" facs="tcp:51642:29"/>
+hath but one Archdeaconry, that of St. <hi>Aſoph,</hi> which is united to the Biſhoprick.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>186</cell>
+                        <cell>19</cell>
+                        <cell>7</cell>
+                        <cell>ob</cell>
+                        <cell>q</cell>
+                     </row>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>187</cell>
+                        <cell>11</cell>
+                        <cell>6</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Bangor,</hi> it contains <hi>Carnarvon,</hi> and the whole Iſle of <hi>Angleſey,</hi> part of <hi>Denbigh, Merioneth</hi> and <hi>Montgo<g ref="char:EOLhyphen"/>mery;</hi> in it 107 Pariſhes, whereof 36 are impropriated; it hath 3 Archdeacons, <hi>Bangor, Angleſey, Me<g ref="char:EOLhyphen"/>rioneth.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>151</cell>
+                        <cell>14</cell>
+                        <cell>3</cell>
+                        <cell>q</cell>
+                     </row>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>131</cell>
+                        <cell>16</cell>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Bath</hi> and <hi>Wells,</hi> contains the whole Gounty of <hi>Somerſet;</hi> and in that 388 Pariſhes, whereof 160 are impropriate; it hath 3 Archdea<g ref="char:EOLhyphen"/>cons of <hi>Bath, Wells</hi> and <hi>Taunton.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>353</cell>
+                        <cell>18</cell>
+                        <cell>ob.</cell>
+                        <cell>q.</cell>
+                     </row>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>533</cell>
+                        <cell>01</cell>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="54" facs="tcp:51642:30"/>
+                  <hi>Briſtol,</hi> hath a Dean and 6 Pre<g ref="char:EOLhyphen"/>benddaries; it contains the City of <hi>Briſtol,</hi> and County of <hi>Dorſet,</hi> and therein 236 Pariſhes, of which 64 are impropriated; it hath one Archdeacon, <hi>i. e.</hi> of <hi>Dorſet.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>353</cell>
+                        <cell>18</cell>
+                        <cell>ob.</cell>
+                        <cell>q.</cell>
+                     </row>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>383</cell>
+                        <cell>8</cell>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Chicheſter,</hi> contains all <hi>Suſſex,</hi> and in it 250 Pariſhes, whereof 112 are impropriated; 2 Arch<g ref="char:EOLhyphen"/>deacons, of <hi>Chicheſter</hi> and <hi>Lewis.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>287</cell>
+                        <cell>2</cell>
+                        <cell>ob.</cell>
+                        <cell>q.</cell>
+                     </row>
+                     <row>
+                        <cell>Valuatlon</cell>
+                        <cell>977</cell>
+                        <cell>1</cell>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Coventry</hi> and <hi>Leichfeild,</hi> it con<g ref="char:EOLhyphen"/>tains the whole Counties of <hi>Derby</hi> and <hi>Stafford,</hi> with a good part of <hi>Warwickſhire</hi> and <hi>Shropſhire,</hi> 557 Pariſhes, whereof 250 impropri<g ref="char:EOLhyphen"/>ated; it hath 4 Archdeaconries,
+<pb n="55" facs="tcp:51642:30"/>
+                  <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>afford, Derby, Coventry</hi> and <hi>Shrewsbury.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>590</cell>
+                        <cell>11</cell>
+                        <cell>11</cell>
+                        <cell>q.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>559</cell>
+                        <cell>18</cell>
+                        <cell>2</cell>
+                        <cell>ob.</cell>
+                        <cell>q.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>St. <hi>Davids,</hi> it contains <hi>Pembroke, Cardigan Carmarthen, Radnor Breck<g ref="char:EOLhyphen"/>nock</hi> and ſome parts of <hi>Hereford, Monmouth, &amp;c.</hi> in it 308 Pariſhes, whereof 120 impropriate; it hath 4 Archdeacon, <hi>i. e.</hi> of <hi>Cardigan, Carmarthen, Brecknock</hi> and <hi>S. Da<g ref="char:EOLhyphen"/>vids.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>336</cell>
+                        <cell>14</cell>
+                        <cell>10</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>457</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                        <cell>ob.</cell>
+                        <cell>q.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Ely,</hi> it contains <hi>Cambridgſhire,</hi> and the Iſle of <hi>Ely,</hi> in which are 141 Pariſhes, whereof 75 are im<g ref="char:EOLhyphen"/>propriate; it hath but one Arch<g ref="char:EOLhyphen"/>deacon, which is he of <hi>Ely.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>384</cell>
+                        <cell>14</cell>
+                        <cell>9</cell>
+                        <cell>q.</cell>
+                     </row>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>2135</cell>
+                        <cell>18</cell>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="56" facs="tcp:51642:31"/>
+                  <hi>Exeter,</hi> it contains the 2 Coun<g ref="char:EOLhyphen"/>ties of <hi>Devon</hi> and <hi>Cornwall,</hi> 604 Pariſh Churches, whereof 239 are impropriate. It hath 4 Archdea<g ref="char:EOLhyphen"/>cons, <hi>(viz.)</hi> of <hi>Cornwall, Exeter, Barnſtaple</hi> and <hi>Taunton,</hi> formerly valued 1566 <hi>l.</hi> 14 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation now</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>00</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>1240</cell>
+                        <cell>15</cell>
+                        <cell>2</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Gloceſter,</hi> It contains only <hi>Glo<g ref="char:EOLhyphen"/>ceſterſhire,</hi> hath in it 267 Pariſhes, whereof 125 impropriate; one Archdeacon <hi>(viz.)</hi> of <hi>Gloceſter.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>315</cell>
+                        <cell>17</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>358</cell>
+                        <cell>15</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Hereford,</hi> it containeth the Coun<g ref="char:EOLhyphen"/>ty of <hi>Hereford</hi> and part of <hi>Shrop<g ref="char:EOLhyphen"/>ſhire;</hi> it hath 313 Pariſh Churches, of which 166 are impropriate; it hath 2 Archdeacons <hi>(viz.) Hereford</hi> and <hi>Salop.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>768</cell>
+                        <cell>10</cell>
+                        <cell>6</cell>
+                        <cell>ob.</cell>
+                     </row>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>34<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>2</cell>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="57" facs="tcp:51642:31"/>
+                  <hi>Llandaff,</hi> it contains part of <hi>Gla<g ref="char:EOLhyphen"/>morganſhire,</hi> and part of <hi>Monmouth<g ref="char:EOLhyphen"/>ſhire;</hi> 177 Pariſhes, whereof 98 impropriate; one Archdeacon of <hi>Land<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>154</cell>
+                        <cell>14</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>156</cell>
+                        <cell>5</cell>
+                        <cell>4</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Lincoln,</hi> it contains the Counties of <hi>Lincoln, Leicester, Huntington, Bedford, Buckingham</hi> and part of <hi>Hertfordſhire;</hi> in it 1255 Pariſhes, whereof 577 are impropriations; 6 Archdeacons <hi>(viz.) Lincoln, Lei<g ref="char:EOLhyphen"/>ceſter, Bedford, Buckingham, Stow</hi> and <hi>Huntington.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>1751</cell>
+                        <cell>14</cell>
+                        <cell>6</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>894</cell>
+                        <cell>10</cell>
+                        <cell>1</cell>
+                        <cell>ob.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>London,</hi> it contains the Counties of <hi>Middleſex</hi> and <hi>Eſſex,</hi> and part of <hi>Hartfordſhire;</hi> 623 Pariſhes, and of them 189 impropriated; 5 Arch<g ref="char:EOLhyphen"/>deacons,
+<pb n="58" facs="tcp:51642:32"/>
+of <hi>London, Midleſex, Eſſex, Colcheſter</hi> and St. <hi>Albans.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>1119</cell>
+                        <cell>8</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Tenth</cell>
+                        <cell>821</cell>
+                        <cell>15</cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Norwich,</hi> it contains <hi>Norfolk</hi> and <hi>Suffolk;</hi> 1121 Pariſh Churches, whereof 385 impropriate; it hath 4 Arch-deacons <hi>(viz.)</hi> of <hi>Norwich, Norfolk, Suffolk</hi> and <hi>Sudbury.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>899</cell>
+                        <cell>18</cell>
+                        <cell>7</cell>
+                        <cell>ob</cell>
+                     </row>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>1117</cell>
+                        <cell>13</cell>
+                        <cell>ob</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Oxford,</hi> it contains the County of <hi>Oxford;</hi> 195 Pariſh Churches, of which 88 are impropriated; it hath one Arch-deacon <hi>(viz.)</hi> of <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>354</cell>
+                        <cell>16</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Tenth</cell>
+                        <cell>255</cell>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Peterborough,</hi> it contains the
+<pb n="59" facs="tcp:51642:32"/>
+Counties of <hi>Northampton</hi> and <hi>Rut<g ref="char:EOLhyphen"/>land;</hi> in them 293<g ref="char:punc">▪</g> Pariſhes, where<g ref="char:EOLhyphen"/>of 91. are impropriate; it hath one Arch-deacon <hi>(viz.)</hi> of <hi>Northamp<g ref="char:EOLhyphen"/>ton.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>414</cell>
+                        <cell>19</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>Clergis Tenth</cell>
+                        <cell>520</cell>
+                        <cell>16</cell>
+                        <cell>8</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Rocheſter,</hi> it contains a ſmall part of <hi>Kent;</hi> 98 Pariſhes, of which 36 are impropriate; one Arch-deacon <hi>(viz.)</hi> of <hi>Rocheſter.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>358</cell>
+                        <cell>3</cell>
+                        <cell>7</cell>
+                        <cell>ob.</cell>
+                     </row>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>222</cell>
+                        <cell>14</cell>
+                        <cell>6</cell>
+                        <cell>ob.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Salisbury,</hi> it contains the Coun<g ref="char:EOLhyphen"/>ties of <hi>Berks</hi> and <hi>Wilts;</hi> and in them 544 Pariſh Churches, of which 109 impropriate; 3 Arch-deacons <hi>(viz.) Salisbury, Berks, Wilts.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>1367</cell>
+                        <cell>11</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Tenth</cell>
+                        <cell>901</cell>
+                        <cell>8</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="60" facs="tcp:51642:33"/>
+                  <hi>Winchester,</hi> it contains <hi>Surrey, Southampton</hi> and <hi>Iſle</hi> of <hi>Wight;</hi> 362 Pariſhes of which 131 impro<g ref="char:EOLhyphen"/>priate; 2 Arch-deacons <hi>(viz.)</hi> of <hi>Winchester</hi> and <hi>Surry.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>2793</cell>
+                        <cell>4</cell>
+                        <cell>2</cell>
+                        <cell>q.</cell>
+                     </row>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>846</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Worceſter,</hi> it contains <hi>Worceſter<g ref="char:EOLhyphen"/>ſhire</hi> and part of <hi>Warwickſhire;</hi> therein 241 Pariſhes, of which 71 are impropriate; one Arehdeacon <hi>(viz.)</hi> of <hi>Worceſter.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>1049</cell>
+                        <cell>17</cell>
+                        <cell>3</cell>
+                        <cell>ob.</cell>
+                     </row>
+                     <row>
+                        <cell>Clergies Tenth</cell>
+                        <cell>288</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>York,</hi> contains the two Counties of <hi>York</hi> and <hi>Nottingham;</hi> and in them 581 Pariſh-churches, of which 336 are impropriations; it hath four Arch-deacons <hi>(viz.)</hi> of <hi>York, Cleveland, Eaſtriding</hi> and <hi>Notting<g ref="char:EOLhyphen"/>ham.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>1609</cell>
+                        <cell>19</cell>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>1113</cell>
+                        <cell>17</cell>
+                        <cell>9</cell>
+                        <cell>ob.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="61" facs="tcp:51642:33" rendition="simple:additions"/>
+                  <hi>Carliſle,</hi> it contains <hi>Weſtmorland,</hi> and moſt part of <hi>Cumberland;</hi> 93 Pariſhes, whereof 18 impropriate.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>530</cell>
+                        <cell>4</cell>
+                        <cell>11</cell>
+                        <cell>ob.</cell>
+                     </row>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>161</cell>
+                        <cell>1</cell>
+                        <cell>7</cell>
+                        <cell>ob.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Cheſter,</hi> contains part of <hi>Cum<g ref="char:EOLhyphen"/>berland; Lancaſhire</hi> and <hi>Cheſhire;</hi> 256 Pariſhes, of which 101 are impropriate; 2 Arch-deacons <hi>Rich<g ref="char:EOLhyphen"/>mond</hi> and <hi>Cheſter.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>420</cell>
+                        <cell>1</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Tenths</cell>
+                        <cell>435</cell>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Durham,</hi> it contains the Biſhop<g ref="char:EOLhyphen"/>rick of <hi>Durham,</hi> and County of <hi>Northumberland,</hi> each of which hath an Arch-deacon, 135 Pariſh<g ref="char:EOLhyphen"/>es, whereof 87 impropriate.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Tenth</cell>
+                        <cell>385</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>ob<g ref="char:punc">▪</g>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Valuation</cell>
+                        <cell>1821</cell>
+                        <cell>1</cell>
+                        <cell>5</cell>
+                        <cell>q.</cell>
+                     </row>
+                  </table>
+               </p>
+               <list>
+                  <pb n="62" facs="tcp:51642:34" rendition="simple:additions"/>
+                  <head>
+                     <hi>A Catalogue of all the Biſhops in</hi> England <hi>and</hi> Wales.</head>
+                  <item>ARchbiſhop of <hi>Cant.</hi> Dr. <hi>Tillotſon</hi>
+                  </item>
+                  <item>Archbiſhop of <hi>York.</hi> Dr. <hi>Sharp</hi>
+                  </item>
+                  <item>Biſhop of <hi>London—</hi>Dr. <hi>Compton</hi>
+                  </item>
+                  <item>Biſhop of <hi>Durham—</hi>Dr. <hi>Crew</hi>
+                  </item>
+                  <item>Biſhop of <hi>Wincheſter—</hi>Dr. <hi>Mew</hi>
+                  </item>
+                  <item>Biſhop of <hi>Rocheſter—</hi>Dr. <hi>Sprat</hi>
+                  </item>
+                  <item>Biſhop of <hi>Salisbury—</hi>Dr. <hi>Burnet</hi>
+                  </item>
+                  <item>Biſhop of <hi>Cheſter—</hi>Dr. <hi>Stratford</hi>
+                  </item>
+                  <item>Biſhop of <hi>Worceſter—</hi>Dr. <hi>Stillingfleet</hi>
+                  </item>
+                  <item>Biſhop of <hi>Chicheſter—</hi>Dr. <hi>Patrick</hi>
+                  </item>
+                  <item>Biſhop of <hi>Oxford—</hi>Dr. <hi>Hough</hi>
+                  </item>
+                  <item>Biſhop of <hi>Leichſield</hi> and <hi>Coventry.</hi> Dr. <hi>Lloyd</hi>
+                  </item>
+                  <item>Biſhop of <hi>Hereford—</hi>Dr.—</item>
+                  <item>Biſhop of <hi>Norwich—</hi>Dr. <hi>Moore</hi>
+                  </item>
+                  <item>Biſhop of <hi>Lincoln—</hi>Dr. <hi>Teniſon</hi>
+                  </item>
+                  <item>Biſhop of <hi>Ely—</hi>Dr. <hi>Patrick</hi>
+                  </item>
+                  <item>Biſhop of <hi>Carliſle—.—</hi>
+                  </item>
+                  <item>Bp. of <hi>Bath</hi> and <hi>Wells—</hi>Dr. <hi>K<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ten</hi>
+                  </item>
+                  <item>Biſhop of <hi>Peterborough—</hi>Dr.—</item>
+                  <item>Biſhop of <hi>Exeter.—</hi>Sir <hi>J. Trelawny</hi>
+                  </item>
+                  <item>
+                     <pb n="63" facs="tcp:51642:34"/>
+Biſhop of <hi>Briſtol—</hi>Dr. <hi>Hall</hi>
+                  </item>
+                  <item>Biſhop of St. <hi>Aſaph—</hi>Dr. <hi>Jones</hi>
+                  </item>
+                  <item>Biſhop of <hi>Llandaff—</hi>
+                  </item>
+                  <item>Biſhop of St. <hi>Davids—</hi>Dr. <hi>Wartſon</hi>
+                  </item>
+                  <item>Biſhop of <hi>Bangor—</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>A Liſt of the preſent Deans, both in <hi>England</hi> and <hi>Wales.</hi>
+                  </head>
+                  <item>ST. <hi>Aſaph—</hi>Dr. <hi>Bright</hi>
+                  </item>
+                  <item>
+                     <hi>Bangor—</hi>Dr. <hi>Jones</hi>
+                  </item>
+                  <item>
+                     <hi>Briſtol—</hi>Dr. <hi>Levet</hi>
+                  </item>
+                  <item>
+                     <hi>Canterbury—</hi>Dr. <hi>Hooper</hi>
+                  </item>
+                  <item>
+                     <hi>Carliſle—</hi>Dr. <hi>Muſgrave</hi>
+                  </item>
+                  <item>
+                     <hi>Cheſter—</hi>Dr. <hi>Ardern</hi>
+                  </item>
+                  <item>
+                     <hi>Chicheſter—</hi>Dr. <hi>Hawkins</hi>
+                  </item>
+                  <item>Chriſt Church <hi>Oxon</hi> Dr. <hi>Aldrich</hi>
+                  </item>
+                  <item>St. <hi>Davids—</hi>Dr. <hi>Ellis</hi>
+                  </item>
+                  <item>
+                     <hi>Durham—</hi>Dr. <hi>Greenvile</hi>
+                  </item>
+                  <item>
+                     <hi>Ely—</hi>Dr. <hi>Spencer</hi>
+                  </item>
+                  <item>
+                     <hi>Exeter—</hi>Dr. <hi>Anneſley</hi>
+                  </item>
+                  <item>
+                     <hi>Gloceſter—</hi>Dr. <hi>Jane</hi>
+                  </item>
+                  <item>
+                     <hi>Hereford—</hi>Dr. <hi>Benſon</hi>
+                  </item>
+                  <item>
+                     <hi>Leichfeild—</hi>Dr. <hi>Addiſon</hi>
+                  </item>
+                  <item>
+                     <pb n="64" facs="tcp:51642:35"/>
+                     <hi>Lincoln—</hi>Dr. <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>evius</hi>
+                  </item>
+                  <item>
+                     <hi>Norwich—</hi>Dr. <hi>Fairfax</hi>
+                  </item>
+                  <item>St. <hi>Paul's—</hi>Dr. <hi>Sherlock</hi>
+                  </item>
+                  <item>
+                     <hi>Peterborough—</hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Freeman</hi>
+                  </item>
+                  <item>
+                     <hi>Rochester—</hi>Dr. <hi>
+                        <g ref="char:V">Ʋ</g>llock</hi>
+                  </item>
+                  <item>
+                     <hi>Salisbury—</hi>Dr. <hi>Price</hi>
+                  </item>
+                  <item>
+                     <hi>Wells—</hi>Dr. <hi>Bachurſt</hi>
+                  </item>
+                  <item>
+                     <hi>Weſtminer</hi> Dr. <hi>Sprat</hi> Bp. of <hi>Rocheſter</hi>
+                  </item>
+                  <item>
+                     <hi>Wincheſter—</hi>Dr. <hi>Meggot</hi>
+                  </item>
+                  <item>
+                     <hi>Windſor—</hi>Dr. <hi>Haſcard</hi>
+                  </item>
+                  <item>
+                     <hi>Worceſter—</hi>Dr. <hi>Talbot</hi>
+                  </item>
+                  <item>
+                     <hi>York—</hi>Dr. <hi>Wickhaw</hi>
+                  </item>
+               </list>
+               <p>In <hi>England</hi> are 2 Archbiſhops, 26 Biſhops, 26 Deans of Cathe<g ref="char:EOLhyphen"/>dral and Collegiate Churches, 60 Archdeacons 544 Prebendaries 9700 Rectors and Vicars, beſides Curates.</p>
+               <p>There are ſeveral Rural Deans. The Rural Dean was anciently cal<g ref="char:EOLhyphen"/>led <hi>Archi-presbyter,</hi> and had the guidance and direction of the Pres<g ref="char:EOLhyphen"/>byters. The Paſtors of every Pariſh<g ref="char:EOLhyphen"/>are called Rectors, unleſs the Pre<g ref="char:EOLhyphen"/>dial
+<pb n="65" facs="tcp:51642:35"/>
+Tythes are impropriated; and then they are called Vicars.</p>
+               <p>The Stile of the Archbiſhop of <hi>Canterbury</hi> is, <hi>Johannes Divina Pro<g ref="char:EOLhyphen"/>videntia Archiepiſcopus Cantuareuſis Primas &amp; Metropolita totius Anglae.</hi>
+               </p>
+               <p>The Biſhops write <hi>(D. vina Per<g ref="char:EOLhyphen"/>miſſione.)</hi>
+               </p>
+               <p>All the incomes of the Biſhops in <hi>England</hi> are judged to amount to four hundred and fifty thouſand pounds <hi>per annum.</hi>
+               </p>
+               <p>For inſtitution aad induction of Parſons to benefices the Biſhops have three pounds a piece at leaſt.</p>
+               <p>Licenſes to Preach coſt ten ſhil<g ref="char:EOLhyphen"/>lings.</p>
+               <p>The Church-Wardens pay for their books of Articles every year, and for writing their Preſentments by a Clerk, 2 <hi>s.</hi> 4.</p>
+               <p>Miniſters pay 1 <hi>s.</hi> 8 d. for ſhew<g ref="char:EOLhyphen"/>ing their Licences to Preach to the Regiſter at every Biſhops Viſitati<g ref="char:EOLhyphen"/>on;
+<pb n="66" facs="tcp:51642:36"/>
+and 4 s. Procurat to the Bi<g ref="char:EOLhyphen"/>ſhop, and 8 d. to the Apparitor.</p>
+               <p>The 2 Archbiſhops have Prece<g ref="char:EOLhyphen"/>dency of all the Lord's Temporal, and every other B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhop hath place of all the Barons of the Realm, un<g ref="char:EOLhyphen"/>der the eſtate of Viſcount and other Superior Dignities. The Biſhops have amongſt themſelves this Pre<g ref="char:EOLhyphen"/>cedence. Firſt, The Biſhop of <hi>London;</hi> and after him the Biſhop of <hi>Durham,</hi> and then the Biſhop of <hi>Winchester,</hi> and after him every Biſhop, as he is in Seiniority.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>Of the Original of Patronage, and of Preſentation, Inſtitution and In<g ref="char:EOLhyphen"/>duction.</hi>
+               </head>
+               <p>AS for Foundation and Erecti<g ref="char:EOLhyphen"/>on of Churches, <hi>&amp;c.</hi> The Patron deſigned the ground and
+<pb n="67" facs="tcp:51642:36"/>
+building, but the Biſhops conſent was required; the Foundation being provided, and Mate<g ref="char:EOLhyphen"/>rials, the B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhop comes in his For<g ref="char:EOLhyphen"/>malities in Perſon, the Collare and Humerale, and ſaith certain Pray<g ref="char:EOLhyphen"/>ers, and Fumeth the Groundwork; and the Singingmen ſay the ἀπολυ<g ref="char:EOLhyphen"/>τίκιον (a kind of Collect) for the Saint, to whoſe Name the Church is Dedicated, and croſſeth the cor<g ref="char:EOLhyphen"/>ner-ſtone, and layeth the Founda<g ref="char:EOLhyphen"/>tion, the Founder Endowed it. For the particular manner of Con<g ref="char:EOLhyphen"/>ſecration of Churches, <hi>Vide,</hi> Dr. <hi>Plot<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> Hiſtory of <hi>Staffordſhire.</hi>
+               </p>
+               <p>Several well minded good me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> built Churches, and endowed them with ſeveral parcels of Land, and other immunities, reſerving to themſelves, their Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors, a Right and Power to be<g ref="char:EOLhyphen"/>ſtow the ſaid Churches and Lands on ſuch Perſons they thought fit; and this Right of Preſentation is
+<pb n="68" facs="tcp:51642:37"/>
+called <hi>Advowſon.</hi> The Patrons in the Civil Law are called <hi>Advo<g ref="char:EOLhyphen"/>cati;</hi> and <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tronia Patroci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o,</hi> or Defence; and they Preſent an In<g ref="char:EOLhyphen"/>cumbent on every Vacancy.</p>
+               <p>Preſentation, It is nothing elſe but the nomination of a fit Perſon to the Biſhop to be admitted, inſti<g ref="char:EOLhyphen"/>tuted and inducted into the Church or Benefice which is void; it is an inſtrument in the Nature of a Letter Miſſive, directed to the Bi<g ref="char:EOLhyphen"/>ſhop; and is uſually in this Form.</p>
+               <p>
+                  <hi>Reverendiſſimo in Chriſto Patri &amp; Dom. Dom. Johanni per miſſione Divina Eboracenſi Archiepiſcopo Angliae Pri<g ref="char:EOLhyphen"/>mati &amp; Metropolitani, ejuſve in ab<g ref="char:EOLhyphen"/>ſentia vicario ſuo in rebus Spirituali<g ref="char:EOLhyphen"/>bus generali praenobilis T. P. Baro de P. verus &amp; indubitatus patronus Rectoriae Eccleſiae parochialis de H. Salutem in domino ſempiter nam. Ad Eccleſiam Parochialem de H. predict veſtrae Dioceſis modo per mortem T. R. ultimi incumbentis ibidem vacan<g ref="char:EOLhyphen"/>tem,</hi>
+                  <pb n="69" facs="tcp:51642:37"/>
+                  <hi>delectum mihi in Chriſto T. H. Sacrae Theologiae prefeſſorem pater<g ref="char:EOLhyphen"/>nitati veſtrae praeſento, humiliter ſup<g ref="char:EOLhyphen"/>plicans ut prefa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um T. H. ad dict am Eccleſiam admittere, ipſum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> in Re<g ref="char:EOLhyphen"/>ctoram ejuſdem inſtituti, &amp; induci fa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere, cum ſuis juribus &amp; pertinentis <g ref="char:V">Ʋ</g>niverſis, caetera<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> omnia &amp; ſingula peragere &amp; adimplere in hac parte quae ad veſtrum munus Epiſcopale per tin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re videbantur dignemini cum fa<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re in cujus rei Teſtimonium. &amp;c.</hi>
+               </p>
+               <p>If a <hi>feme covert</hi> hath title to Preſent to a Church which is void, ſhe cannot preſent by her ſelf, but the Preſentation muſt be in the Names of the Husband and Wife, except in the caſe of the Queen.</p>
+               <p>If a Clerk be preſented to the Biſhop, and the Biſhop doth refuſe to admit or inſtitute him; the Bi<g ref="char:EOLhyphen"/>ſhop muſt ſhew the particular cauſe why he doth refuſe him, and not generally, that he is uncapable or <hi>Schiſmaticus Inveteraius. Coke<g ref="char:punc">▪</g>
+                  </hi> 5.
+<pb n="70" facs="tcp:51642:38"/>
+                  <hi>Rep. Specot's caſe.</hi> That a Clerk is a common haunter of Taverns, or a player at unlawful Games, are no good cauſes of refuſal; for tho they are <hi>Mala Prohibita,</hi> yet they are not <hi>Mala in ſe.</hi> But Heretick, Schiſmatick, Perjur'd Perſon, Ba<g ref="char:EOLhyphen"/>ſtard, Outlawed, Illiterate, are good cauſes to refuſe, ſo as the Bi<g ref="char:EOLhyphen"/>ſhop expreſs the crime in certain by a Certificate; but in ſuch caſes, the Ordinary muſt give notice to the Patron of his refuſal.</p>
+               <p>The Law hath appointed ſix Months ro the Patron to preſent his Clerk to the Biſhop; and if the Patron does not Preſent his Clerk accordingly, then the Biſhop ſhall Preſent (by <hi>Lapſe)</hi> a Clerk of his own chooſing. This is called in Law, a <hi>Collation,</hi> and if the Biſhop ſhall not <hi>Collate</hi> within ſix Months; then the Archbiſhop ſhall <hi>Collate</hi> his Clerk; and if the Archbiſhop do not <hi>Collate</hi> within ſix Months, then the King ſhall Preſent.</p>
+               <p>
+                  <pb n="71" facs="tcp:51642:38"/>
+The ſix Months ſhall be ac<g ref="char:EOLhyphen"/>counted according to the <hi>Calendar,</hi> and not according to 28 days to the Month.</p>
+               <p>If the Church become void by Death of the incumbent, the ſix Months ſhall be accounted from the time of his Death. So it is, if the Church become void by Creation, <hi>i. e.</hi> by making the preſent incum<g ref="char:EOLhyphen"/>bent there of a Biſhop<hi>:</hi> but if the Church become void by Reſignati<g ref="char:EOLhyphen"/>on (which Reſignation muſt be made to the Biſhop) or by Depriva<g ref="char:EOLhyphen"/>tion, then the Biſhop muſt give notice of ſuch Reſignation or De<g ref="char:EOLhyphen"/>privation, and the ſix Months ſhall be accounted from the time of ſuch notice.</p>
+               <p>If the King be Patron, and doth not preſent his Clerk to the Church within ſix Months, there the Ordi<g ref="char:EOLhyphen"/>nary ought not <hi>de jure</hi> to <hi>Collate</hi> in regard of the ſaid <hi>Lapſe;</hi> he ought only to Sequeſt the Profits of the
+<pb n="72" facs="tcp:51642:39"/>
+Church, till the King will Preſent.</p>
+               <p>A common Perſon cannot re<g ref="char:EOLhyphen"/>voke, repeal or vary from his firſt Preſentation, becauſe he hath put it out of himſelf, and he hath given the Biſhop power to perfect what he himſelf began; yet before Inducti<g ref="char:EOLhyphen"/>on the King may revoke his Pre<g ref="char:EOLhyphen"/>ſentment.</p>
+               <p>Before the Clerk is admitted and inſtituted, he ought to be ex<g ref="char:EOLhyphen"/>amined by the Biſhop: If once the Biſhop refuſeth a Man for inſuffici<g ref="char:EOLhyphen"/>ency, he cannot afterwards accept of him.</p>
+               <p>The Clerk is not bound to ſhew his Letters of Orders, or Letters Teſtimonial to the Biſhop upon his Examination. <hi>Trin.</hi> 43. <hi>Eliz. B. R. Palms,</hi> and the Biſhop of <hi>Pe<g ref="char:EOLhyphen"/>terborough</hi>'s caſe.</p>
+               <p>If the Biſhop find the Clerk able, he admits him in theſe words, <hi>Admitto te habilem:</hi> And afterwards he doth inſtitute him
+<pb n="73" facs="tcp:51642:39"/>
+unto the benefice or Church, thus, <hi>Inſtituo te rectorem Ecclaeſie parochialis de D, &amp; habere curam animarum, accipe curam tuam &amp; meam.</hi>
+               </p>
+               <p>The Biſhop may examin, admit and inſtitute a man cut of his own Dioceſs.</p>
+               <p>In all caſes if a Church Lapſe to the Biſhop or Archbiſhop, and the Pation preſents his Clerk before the Biſhop or Archbiſhop have collated, the Biſhop is bound to ad<g ref="char:EOLhyphen"/>mit the Clerk of the true Patron, and cannot take advantage of the Lapſe.</p>
+               <p>A Clerk muſt ſubſcribe to three Articles. 1. To the Supremacy. 2. That the book of Common pray<g ref="char:EOLhyphen"/>er, and of ordering Biſhops, Preiſts and Deacons, contains nothing in it contrary to the word of God. 3. That he alloweth of the 39 Articles of Religion, and acknow<g ref="char:EOLhyphen"/>ledgeth them to be agreeable to the word of God.</p>
+               <p>
+                  <pb n="74" facs="tcp:51642:40"/>
+The Delinquent againſt the Ca<g ref="char:EOLhyphen"/>nons of King <hi>James,</hi> made at a Convocation in <hi>London, Anno Dom.</hi> 1003. is to be preceeded withal by the cenſures of the Church.</p>
+               <p>Cheif Juſtice <hi>Wr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y.</hi> Paſch. 23. <hi>Eliz.</hi> reports, that whereas one <hi>Smith</hi> ſubſcribed the 39 Articles, with this addition (ſo far forth as the ſame were agreeable to the word of God) that this was not according to the Stat. 13. <hi>Eliz.</hi>
+               </p>
+               <p>Induction is uſually done by the Archdeacon. It is the putting the Clerk in Poſſeſſion of the Church Glebelands, Tyths, <hi>&amp;c.</hi> by the inſtitution he is admitted, <hi>ad Officium,</hi> by induction he is in<g ref="char:EOLhyphen"/>titled <hi>ad beneficium.</hi>
+               </p>
+               <p>No man is capable to be a Par<g ref="char:EOLhyphen"/>ſon, Vicar, <hi>&amp;c.</hi> before he is a Prieſt in Orders, which cannot be before he is four and twenty years of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>
+                  <pb n="75" facs="tcp:51642:40"/>
+By the Stat. 14. <hi>Car.</hi> 2. Cap. 4. he muſt make a Subſcription ac<g ref="char:EOLhyphen"/>cording to the ſaid Act<g ref="char:punc">▪</g> and have a Certificate from the Biſhop that he hath ſo done.</p>
+               <p>Within 2 Months after he is in<g ref="char:EOLhyphen"/>ducted, he muſt, during Divine Service, read the 39 Articles in the Pariſh Church, and declare his un<g ref="char:EOLhyphen"/>feigned aſſent, and conſent to all that is therein contained poſitive<g ref="char:EOLhyphen"/>ly.</p>
+               <p>He muſt within 2 Months after he is inducted, upon ſome <hi>Sunday,</hi> read the book of Common Prayer, <hi>(i. e.</hi> the whole Service of the Church appointed for that day) and likewiſe declare his aſſent and conſent to all the matters and things therein contained in theſe words.</p>
+               <p>J. A. B. <hi>Do declare my unfeigned aſſent and conſent to all and every thing contained and preſcribed in and by the Book, intituled the Book of</hi>
+                  <pb n="76" facs="tcp:51642:41"/>
+                  <hi>Common Prayer, and adminiſtration of the Sacraments, and other rites and ceremonies of the Church, according to the uſe of the Church of</hi> England, <hi>together w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th the Pſalter or Pſalms of</hi> David, <hi>pointed as they are to be ſung or ſaid in the Churches, and the form or manner of making, ordain<g ref="char:EOLhyphen"/>ing and Conſecrating of Biſhops, Preists and Deacons.</hi>
+               </p>
+               <p>He muſt likewiſe within 3 Months after his Inſtitution, upon ſome Lord's day (during Divine Service) publickly read his Certifi<g ref="char:EOLhyphen"/>cate from the Biſhop, of his Sub<g ref="char:EOLhyphen"/>ſcription to the Declaration follow<g ref="char:EOLhyphen"/>ing; and he muſt at the ſame time read the Declaration it ſelf in the Church where he is to Officiate, before the Congregation there aſ<g ref="char:EOLhyphen"/>ſembled. The Declaration fol<g ref="char:EOLhyphen"/>lows.</p>
+               <p>
+                  <hi>I<g ref="char:punc">▪</g> A.</hi> B. <hi>declare, that it is not Law<g ref="char:EOLhyphen"/>ful upon any pretence whatſoever, to take Arms againſt the King, and that</hi>
+                  <pb n="77" facs="tcp:51642:41"/>
+                  <hi>I do abhor that Trayterous poſition of taking Arms by his Authority againſt his Perſon, or againſt theſe that are Commiſſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nated by him; and that I will conform to the Liturgy of the Church of</hi> England, <hi>as it is now E<g ref="char:EOLhyphen"/>ſtabliſhed.</hi>
+               </p>
+               <p>The clauſe about the ſolemn League and Covenant is now ex<g ref="char:EOLhyphen"/>pired.</p>
+               <p>Obſerve, That the Parſon, Vi<g ref="char:EOLhyphen"/>car, <hi>&amp;c.</hi> muſt upon the accoptance of every new Living, or Eccleſiaſti<g ref="char:EOLhyphen"/>cal Preferment within this Law, re<g ref="char:EOLhyphen"/>peat all theſe things.</p>
+               <p>Let him have ſome credible Witneſſes preſent when he makes his Subſcription before the Biſhop, and that they atteſt the Biſhop's Certificate, and that they get two books of Articles, and when they read them, that he gives one of them to ſome Pariſhioners to read with him, and atteſt the ſame, that they were preſent and heard the
+<pb n="78" facs="tcp:51642:42"/>
+Clerk read the 39 Articles during the time of Common Prayer, and declare his unfeigned aſſent and Conſent to all the matters and things therein contained, by ſub<g ref="char:EOLhyphen"/>ſcribing their names thereunto.</p>
+               <p>When he reads the Book of Common Prayer, let ſome intelli<g ref="char:EOLhyphen"/>gent Pariſhoners read with him, and give them a copy of the De<g ref="char:EOLhyphen"/>claration aforeſaid, and let them atteſt under their hands his reading of the Common Prayer and Decla<g ref="char:EOLhyphen"/>ration, whith may be done in this Form.</p>
+               <p>In a fair legible hand, write the Declaration aforeſaid. Then write under,</p>
+               <p>Memorandum, <hi>That upon</hi> Sun<g ref="char:EOLhyphen"/>day <hi>the</hi> 
+                  <gap reason="blank" extent="3 words">
+                     <desc> _____ _____ _____ </desc>
+                  </gap> 
+                  <hi>in the year of our Lord</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> A. B. <hi>Parſon of</hi> D. <hi>in the County of</hi> D. <hi>read common Prayers in the ſaid Pa<g ref="char:EOLhyphen"/>riſh Church of</hi> D. <hi>both in the fore<g ref="char:EOLhyphen"/>noon and afternoon of the ſame day,</hi>
+                  <pb n="79" facs="tcp:51642:42"/>
+                  <hi>according to the form and order pre<g ref="char:EOLhyphen"/>ſcribed and directed by the book, en<g ref="char:EOLhyphen"/>tituled, the book of Common Prayer, and Adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ments, and other rights and ceremo<g ref="char:EOLhyphen"/>nies of the Church, according to the uſe of the Church of</hi> England, &amp;c. <hi>and immediately after reading the ſame, made a declaration of his un<g ref="char:EOLhyphen"/>feigned aſſent and conſent to all the matters and things therein contained in the form and words above written. And let the Witneſſes ſubſcribe the ſame Certificate, and let theſe things be carefully kept.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="80" facs="tcp:51642:43"/>
+               <head>CHAP. VII. <hi>Of Marriages.</hi>
+               </head>
+               <div type="section">
+                  <head>Times Prohibiting Marriage.</head>
+                  <p>MArriage comes in on the 13th day of <hi>January;</hi> and at <hi>Septuageſſima Sunday</hi> it is out a<g ref="char:EOLhyphen"/>gain until <hi>Low Sunday</hi> (for we muſt faſt from fleſh in clear Lent) at which time it comes in again, and goes not cut again till <hi>Rogation Sun<g ref="char:EOLhyphen"/>day:</hi> For <hi>Rogamen Vetitat.</hi> From whence it is forbidden again till <hi>Trinity Sunday;</hi> from whence it is not fordidden till <hi>Advent Sunday:</hi> But then it goes out, and comes not in again till the 13<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h day of <hi>January</hi> next following; notwith<g ref="char:EOLhyphen"/>ſtanding all this, I would venture to Marry a prudent, comly and rich Woman at any time.</p>
+               </div>
+               <div type="section">
+                  <pb n="81" facs="tcp:51642:43"/>
+                  <head>Affinity and Conſanguinity forbidding Marriage.</head>
+                  <p>A Man may not Marry his
+<list>
+                        <item>Grandmother,</item>
+                        <item>Grandfathers Wife,</item>
+                        <item>Wives Grandmother,</item>
+                        <item>Fathers Siſter,</item>
+                        <item>Mothers Siſter,</item>
+                        <item>Fathers Brothers Wife,</item>
+                        <item>Mothers Brothers Wife.</item>
+                        <item>Wives Fathers Siſter</item>
+                        <item>Wives Mothers Sister,</item>
+                        <item>Mother,</item>
+                        <item>Stepmother,</item>
+                        <item>Wives Mother,</item>
+                        <item>Daughter,</item>
+                        <item>Wives Daughter,</item>
+                        <item>Sons Wife.</item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi>A Woman may not Marry her</hi>
+                     <list>
+                        <item>Grandfather,</item>
+                        <item>Grandmothers Husband.</item>
+                        <item>
+                           <pb n="82" facs="tcp:51642:44"/>
+Husbands Grandfather,</item>
+                        <item>Fathers Brother,</item>
+                        <item>Mothers Brother</item>
+                        <item>Fathers Siſters Husband,</item>
+                        <item>Mothers Siſters Husband,</item>
+                        <item>Husbands Fathers Brother,</item>
+                        <item>Husbands Mothers Brother,</item>
+                        <item>Father,</item>
+                        <item>Stepfather,</item>
+                        <item>Husbands Father,</item>
+                        <item>Son</item>
+                        <item>Husbands Son,</item>
+                        <item>Daughters Husband.</item>
+                     </list>
+                  </p>
+                  <p>A Man may not Marry his
+<list>
+                        <item>Siſter,</item>
+                        <item>Wives Siſter,</item>
+                        <item>Brothers Wife,</item>
+                        <item>Sons Daughter,</item>
+                        <item>Daughters Daughter</item>
+                        <item>Sons Sons Wife</item>
+                        <item>Daughters Sons Wife</item>
+                        <item>Wives Sons Daughter,</item>
+                        <item>Wives Daughters Daughter,</item>
+                        <item>
+                           <pb n="83" facs="tcp:51642:44"/>
+Brothers Daughter,</item>
+                        <item>Siſters Daughter,</item>
+                        <item>Brothers Sons Wife,</item>
+                        <item>Siſters Sons Wife,</item>
+                        <item>Wives Brothers Daughter,</item>
+                        <item>Wives Siſters Daughter.</item>
+                     </list>
+                  </p>
+                  <p>A Woman may not Marry her
+<list>
+                        <item>Brother,</item>
+                        <item>Husbands Brother,</item>
+                        <item>Siſters Husband,</item>
+                        <item>Sons Son,</item>
+                        <item>Daughters Son,</item>
+                        <item>Sons Daughters Husband</item>
+                        <item>Daughters Daughters Husband</item>
+                        <item>Husbands Sons Son,</item>
+                        <item>Husbands Daughters Son,</item>
+                        <item>Brothers Son,</item>
+                        <item>Siſters Son,</item>
+                        <item>Brothers Daughters Husband,</item>
+                        <item>Siſters Daughters Husband,</item>
+                        <item>Husbands Brothers Son,</item>
+                        <item>Husbands Siſters Son.</item>
+                     </list>
+                  </p>
+                  <p>
+                     <pb n="84" facs="tcp:51642:45"/>
+                     <hi>He that would ſee more of this, let him peruſe Lord Chief Juſtice</hi> Vaughans <hi>reports in Dr.</hi> Harriſons <hi>Caſe, where he ſhall meet with ex<g ref="char:EOLhyphen"/>cellent and curious Learning on this Subject.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. <hi>Of Non-reſidence.</hi>
+               </head>
+               <p>BY Stat. 21. <hi>Hen.</hi> 8. cap. 13. every Archdeacon, Dean, Parſon and Vicar, muſt be per<g ref="char:EOLhyphen"/>ſonally reſident, and abiding in, at, or upon his ſaid Dignity or Be<g ref="char:EOLhyphen"/>nefice, or one of them at the leaſt; and upon wilful abſence by the ſpace of one Month at a time, or two Months at ſeveral times in any one year, to forfeit 10 <hi>l.</hi>
+               </p>
+               <p>The Stat. intends he ſhould be
+<pb n="85" facs="tcp:51642:45"/>
+Reſident in and upon his Parſon<g ref="char:EOLhyphen"/>age or Vicaridg-houſe.</p>
+               <p>Impriſonment excuſeth the Par<g ref="char:EOLhyphen"/>ſon, <hi>&amp;c.</hi>
+               </p>
+               <p>Removal for healths ſake ex<g ref="char:EOLhyphen"/>cuſeth.</p>
+               <p>He that is Reſident in the Uni<g ref="char:EOLhyphen"/>verſity, and under forty years of age, to do Exerciſes there, is ex<g ref="char:EOLhyphen"/>cuſed.</p>
+               <p>Being in the King's Service be<g ref="char:EOLhyphen"/>yond Sea, excuſeth.</p>
+               <p>A Chaplain qualified, is excuſed.</p>
+               <p>The King may give Licenſe to any of his own Chaplains to be Non-reſident.</p>
+               <p>Arch biſhops, Biſhops, Lords, Houſehold Chaplains are excuſed.</p>
+               <p>Vid. Stat. 13 <hi>Eliz.</hi> c. 20. 14 <hi>Eliz.</hi> cap. 11.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="86" facs="tcp:51642:46"/>
+               <head>CHAP. IX. <hi>Of Diſpenſations and Pluralities.</hi>
+               </head>
+               <p>A Diſpenſation granted by the Archbiſh, and confirmed by the King<hi>'s</hi> Letters Patents, (as it muſt be) <hi>Retinere beneficium cum cura animarum,</hi> is good only to ſuch a perſon who is full and perfect in<g ref="char:EOLhyphen"/>cumbent of the Church at the time of the Diſpenſation to him, by Stat. 21. <hi>Hen.</hi> 8. cap. 13.</p>
+               <p>The King, Queen and Prince, and other the King's Children, may retain as many Chaplains as they pleaſe, and every of their Chaplains may purchaſe a Diſpen<g ref="char:EOLhyphen"/>ſation for two Parſonages, or Bene<g ref="char:EOLhyphen"/>fices, with cure of Souls, or may hold as many of the King's Gift as they can get.</p>
+               <p>
+                  <pb n="87" facs="tcp:51642:46"/>
+Every Archbiſhop and Duke may have ſix Chaplains, and every one may have two Parſonages.</p>
+               <p>Every Marquiſs and Earl may have five Chaplains, and every one may have two Benefices.</p>
+               <p>Every Viſcount and Biſhop may have four Chaplains, and every one may keep two Benefices.</p>
+               <p>The Lord Chancellor, every Barron and Knight of the Garter may have three Chaplains.</p>
+               <p>Every Dutcheſs, Counteſs and Barroneſs, being Widows, may have two Chaplains.</p>
+               <p>The Treaſurer of the King's Houſe, and Comptroler, the King's Secretary, Dean of the Chappel, and Maſter of the Rolls may eve<g ref="char:EOLhyphen"/>ry of them have two Chaplains, and the Chief Juſtice of the King's Bench, one Chaplain.</p>
+               <p>All Doctors and Batchelors of Divinity (not admitted by Grace only) may keep two Benefices.</p>
+               <p>
+                  <pb n="88" facs="tcp:51642:47"/>
+No Deanery, Archdeaconry, or Prebend is within this Act of Pluralities.</p>
+               <p>If any incumbent be Reſident upon his Living, and keep a Cu<g ref="char:EOLhyphen"/>rate, he is bound by the <hi>Act of <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>niformity</hi> once every Month at leaſt to read the <hi>Common Prayers</hi> in his Pariſh Church, or he forſeits 5 <hi>l.</hi> for every time he fails therein.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. <hi>Cauſes of Deprivation,</hi>
+               </head>
+               <p>CAuſes of Deprivation in the Spiritual Court (all which are allowed by the <hi>Common Law)</hi> are,</p>
+               <list>
+                  <item>
+                     <hi>Conſcientia Criminis.</hi>
+                  </item>
+                  <item>
+                     <hi>Debilitas Corporis.</hi>
+                  </item>
+                  <item>
+                     <hi>Irregularitaes Perſonae.</hi>
+                  </item>
+                  <item>
+                     <hi>Defectus Scientiae.</hi>
+                  </item>
+                  <item>
+                     <pb n="89" facs="tcp:51642:47"/>
+                     <hi>Grave Scandulun.</hi>
+                  </item>
+                  <item>
+                     <hi>Hereſie, Schiſme, &amp;c.</hi>
+                  </item>
+               </list>
+               <p>If the Clerk be convict of Per<g ref="char:EOLhyphen"/>jury in the Spiritual Court, it's a good<g ref="char:punc">▪</g> cauſe of Deprivation; but the Ordinary muſt give notice to the Patron of this Deprivation.</p>
+               <p>If the Patron Preſent a meer Lay-man, the ſame is a good cauſe of Deprivation, if he be inſtituted and inducted; but he muſt be de<g ref="char:EOLhyphen"/>prived by ſentence in the <hi>Spiritual Court.</hi>
+               </p>
+               <p>If a Judgment of Deprivation be againſt a Parſon, if he make his Appeal, the Church is not void, but he remains Parſon du<g ref="char:EOLhyphen"/>ring the time of the Appeal; and if he do reverſe the Judgment, there needs no new Inſtitution and induction. <hi>Hornogal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s</hi> Caſe.</p>
+               <p>Diſobedience to the Ordinary, Incontinency and Drunkeneſs, are good cauſes of Deprivation; he
+<pb n="90" facs="tcp:51642:48"/>
+muſt be a common Drunkard.</p>
+               <p>He that comes in by Simony, may be deprived.</p>
+               <p>To maintain any Doctrine a<g ref="char:EOLhyphen"/>gainſt the 39 Articles of Religi<g ref="char:EOLhyphen"/>on, and perſiſt therein, is cauſe of Deprivation.</p>
+               <p>Nonconformity, is a good cauſe of Deprivation.</p>
+               <p>Taking a ſecond Benefice, con<g ref="char:EOLhyphen"/>trary to the Stat. 21 <hi>H.</hi> 8. cap. 13. without a Diſpenſation, is a juſt cauſe of Deprivation.</p>
+               <p>Obſerve, avoidances by Act of Parliament need no ſentence de<g ref="char:EOLhyphen"/>claratory.</p>
+               <p>By Stat. 13 <hi>Eliz.</hi> cap. 12. He that doth not ſubſcribe unto the Articles, nor read the Articles of Religion, ſhall be deprived <hi>ipſo facto.</hi> But the Ordinary muſt give notice thereof to the Patron.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="91" facs="tcp:51642:48"/>
+               <head>CHAP. XI. <hi>Of Dilapidations.</hi>
+               </head>
+               <p>A Dilapidation is the pulling down or deſtroying any of the Houſes or Buildings belonging to a Spiritual Living, or the Chan<g ref="char:EOLhyphen"/>cel, or ſuffering them to run into ruin or decay, or waſting and de<g ref="char:EOLhyphen"/>ſtroying the woods of the Church.</p>
+               <p>Suits for Dilapidations are moſt properly to be ſued in the <hi>Spiritual Courts.</hi>
+               </p>
+               <p>But a ſpecial Action upon the caſe lies againſt the Dilapidator, his Executors or Adminiſtrators at <hi>Common Law;</hi> and all the Money and Damage that ſhall be reco<g ref="char:EOLhyphen"/>vered for Dilapidations, are to be expended and laid out, in and a<g ref="char:EOLhyphen"/>bout the Repairs. As to the Bi<g ref="char:EOLhyphen"/>ſhop and Parſon's granting Leaſes,
+<pb n="92" facs="tcp:51642:49"/>
+in ſuch caſes beſure to conſult ſome able <hi>Councell<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII. <hi>The Priviledges of Clergy-men.</hi>
+               </head>
+               <p>THey are not compelled to ſerve in any temporal Of<g ref="char:EOLhyphen"/>fice; as Conſtable, Overſeer, <hi>&amp;c.</hi>
+               </p>
+               <p>They may not be arreſted in the Church or Church yard, when they are attendant on Di<g ref="char:EOLhyphen"/>vine Service.</p>
+               <p>The bodies of Clergy-men can<g ref="char:EOLhyphen"/>not be arreſted upon any <hi>Capias,</hi> upon a Statute Merchant, or Sta<g ref="char:EOLhyphen"/>tute Staple; and if he be Arreſted thereupon, a Writ of Falſe Im<g ref="char:EOLhyphen"/>priſonment lies againſt the Of<g ref="char:EOLhyphen"/>ficers.</p>
+               <p>Their Goods are free from Tolls in Fairs and Markets.</p>
+               <p>They are not bound to appear at Court Leets.</p>
+               <p>
+                  <pb n="93" facs="tcp:51642:49"/>
+If a Clark in Holy Orders be found guilty by the Petit Jury, of a Crime for which the benefit of Clergy is allowable, he ſhall not be burned in the hand as a Lay-man ſhall be.</p>
+               <p>A Lay man can have his Cler<g ref="char:EOLhyphen"/>gy but once, but a Clark in Holy Orders ſhall have it <hi>ad infinitum.</hi>
+               </p>
+               <p>No Execution ſhall be executed upon the Goods of the Church.</p>
+               <p>By the Stat. 1 <hi>Mariae</hi> cap. 3. he muſt not be diſturbed Praying or Preaching.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. <hi>Of Tythes.</hi>
+               </head>
+               <p>TYthes are an Eccleſiaſtical In<g ref="char:EOLhyphen"/>heritance, collateral to the ſtate of the Land, and therefore u<g ref="char:EOLhyphen"/>nity of poſſeſſion cannot extinct or ſuſpend them; but may be dimiſſed
+<pb n="94" facs="tcp:51642:50"/>
+or granted, notwithſtanding ſuch unity.</p>
+               <p>Tythes are,</p>
+               <list>
+                  <item>Praedial; which ariſe from the profits of the Land.</item>
+                  <item>Mixt; ſuch as ariſe from Cat<g ref="char:EOLhyphen"/>tle.</item>
+                  <item>Perſonal; ſuch as ariſe from Labour or Induſtry.</item>
+               </list>
+               <p>Tythes are alſo divided into</p>
+               <list>
+                  <item>Great Tythes.</item>
+                  <item>Small Tythes, <hi>Minutae Decimae.</hi>
+                  </item>
+               </list>
+               <p>Corn, Hay and Wood account<g ref="char:EOLhyphen"/>ed great Tythes.</p>
+               <p>Garden ſtuff, Fruits, Saffron, Woad, Flax, Hemp, and Per<g ref="char:EOLhyphen"/>ſonal and mixt Tythes, are ac<g ref="char:EOLhyphen"/>counted ſmall Tythes.</p>
+               <p>Many Vicaridges are endowed with the ſmall Tythes only.</p>
+               <p>Before the time that the Paro<g ref="char:EOLhyphen"/>chial rights of Tythes were ſetled, the Owners of Lands might grant their Tythes to any Eccleſiaſti<g ref="char:EOLhyphen"/>cal or Religious Perſons; ſo
+<pb n="95" facs="tcp:51642:50"/>
+Tythes of ſome whole Pari<g ref="char:EOLhyphen"/>riſhes were <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tanted to Abbots, <hi>&amp;c.</hi> and to the Rectors of other Pari<g ref="char:EOLhyphen"/>ſhes; which is the reaſon that at this day there are ſeveral porti<g ref="char:EOLhyphen"/>ons of Tythes held from the Pa<g ref="char:EOLhyphen"/>riſh Churches by Impropriators and the Rectors of other Churches.</p>
+               <p>About the twelfth Century, the Parochial Rights of Tythes were generally ſetled.</p>
+               <p>Many Abbots, who had Tythes of other Pariſhes granted to them, held out againſt the Pariſh Prieſts, and after claimed the Tythes by preſcription, <hi>i. e.</hi> by forty years poſſeſſion, and that is the reaſon that many portions of Tythes are at this day held by Impropriators that had been gained by the Ab<g ref="char:EOLhyphen"/>bots by ſuch preſcription, and by this means they got their preſcri<g ref="char:EOLhyphen"/>ons <hi>de non decimando;</hi> for one Cler<g ref="char:EOLhyphen"/>gy-man may preſcribe againſt a<g ref="char:EOLhyphen"/>nother, but not a Lay-man.</p>
+               <p>
+                  <pb n="96" facs="tcp:51642:51"/>
+No man was capable of Tithes in Pernancy, till the Statutes of <hi>Diſ<g ref="char:EOLhyphen"/>ſolutions</hi> of <hi>Religious Houſes</hi> ena<g ref="char:EOLhyphen"/>bled them. And ſince then thoſe Tithes which were appropriated to the <hi>Religious Houſes,</hi> are become Lay-fee; and any Lay-man is ca<g ref="char:EOLhyphen"/>pable of them in Pernancy, and may ſue for the ſame in the <hi>Spiri<g ref="char:EOLhyphen"/>tual Courts.</hi>
+               </p>
+               <p>All Tythes not appropriated be<g ref="char:EOLhyphen"/>long to the Rector of the Pariſh Church wherein they ariſe, yet the Parſon of one Pariſh may pre<g ref="char:EOLhyphen"/>ſcribe to have a Portion of Tithes in the Pariſh of another; and ſo might Abbots and other religious perſons preſcribe to have Portions of Tythes in Pariſhes, whereof they had not the Advowſons, and by conſequence the Patentees from the Crown, and the Improprieta<g ref="char:EOLhyphen"/>tors may claim the ſame by pre<g ref="char:EOLhyphen"/>ſcription in the Abbots, Priors, <hi>&amp;c.</hi> and the uſage ſince the Diſſolu<g ref="char:EOLhyphen"/>tion
+<pb n="97" facs="tcp:51642:51"/>
+will ſerve to prove the pre<g ref="char:EOLhyphen"/>ſcription and uſage in the Abbots, <hi>&amp;c.</hi> that they held the ſame ſo time out of mind.</p>
+               <p>If a Parſon leaſe his Gleab Land, and do not alſo grant the Tythe thereof, the Tenant ſhall pay the Tythe to the Parſon.</p>
+               <p>If a Parſon ſow his ground, and then ſells the Corn growing, the Buyer ſhall pay Tythes of it to the Parſon.</p>
+               <p>By the Stat. 28. <hi>H.</hi> 8. cap 11. all the Tythes and other Profits be<g ref="char:EOLhyphen"/>longing to the Rectory, are given to the Succeſſor from the death of the laſt Incumbent ſo that the Executors have nothing to do with them.</p>
+               <p>The Vicar ſhall not pay tythes of his Gleab to the Parſon, with<g ref="char:EOLhyphen"/>out ſpecial words.</p>
+               <p>Perſonal tythes are to be paid where the party communicates, but praedial to the Parſon, with<g ref="char:EOLhyphen"/>in
+<pb n="98" facs="tcp:51642:52"/>
+whoſe Pariſh the Land lies</p>
+               <p>The manner of the payment of Tythes, is for the moſt part governed by the cuſtom of the place, as in Sheaves, Hay cocks or Graſs-cocks, no tythes are to be paid of the Aftermaths of Mea<g ref="char:EOLhyphen"/>dow; but if the Meadow be ſo rich, that there is two Crops of Hay or Woad got in one year, the Parſon ſhall have tythe of both.</p>
+               <p>Tythe ſhall be paid of Hay and Corn growing in Orchards, tho the tythes of Fruit be paid the ſame year.</p>
+               <p>Groſs Woods are ſuch as are uſually imployed for building, as Oak, Aſh, Elm, Beech, and are not tythable; but Willows, Ha<g ref="char:EOLhyphen"/>ſels, Hollies, Maples, Birch, Al<g ref="char:EOLhyphen"/>ders, Thorns, <hi>&amp;c.</hi> of what age or bigneſs ſoever, are tytheable; but if they are for fewel in the Owners Houſes, they are not tytheable.</p>
+               <p>
+                  <pb n="99" facs="tcp:51642:52"/>
+Tythes ſhall be paid of Nurſe<g ref="char:EOLhyphen"/>ry Trees, if they are ſold to be tranſplanted into other Pariſhes.</p>
+               <p>If the Coppice hath paid tythes, the grubbed wood ſhall not pay any.</p>
+               <p>If Oak, Aſh, Elm be cut un<g ref="char:EOLhyphen"/>der one and twenty years growth, they are accounted <hi>Sylva Caedua,</hi> and ought to pay tythes<g ref="char:punc">▪</g>
+               </p>
+               <p>But the Loppings of great Oaks, Aſhes, though the Lops be under twenty years growth, ſhall not pay tythes; nor of the Shoots that grow from the Roots of ſuch Timber Trees.</p>
+               <p>No tythes ſhall be paid of the Bark of Timber Trees: But tythes ſhall be paid of the Maſts and Acrons; but then they ought to be collected and ſold, <hi>Litt. rep.</hi> p. 40</p>
+               <p>If Wood-ground be mixt with Woods tytheable, and Woods not tytheable, and the greater
+<pb n="100" facs="tcp:51642:53"/>
+part be ſuch as are not tytheable, it ſhall priviledge the reſt, and ſo <hi>e contrario,</hi> 16<g ref="char:punc">▪</g> 
+                  <hi>Jac G. B. Leonards</hi> caſe.</p>
+               <p>The Parſon may ſue the buyer or Seller of the Woods for tythes at his Election.</p>
+               <p>The manner of payment of Wood tythes, is either by the meaſure of the ground, or every tenth Faggot.</p>
+               <p>Herbage is to be paid for bar<g ref="char:EOLhyphen"/>ren Cattle, which yeild no pro<g ref="char:EOLhyphen"/>fit to the Parſon.</p>
+               <p>No herbage tythe ſhall be paid for the agiſtment of Beaſts bred for the Plow or Pail, and ſo im<g ref="char:EOLhyphen"/>ployed in the ſame Pariſh. So if a man eat a ground with his own Saddle-Horſes, he ſhall pay no tythe for the ſame; but an Inn<g ref="char:EOLhyphen"/>keeper that eats with Gueſts Hor<g ref="char:EOLhyphen"/>ſes ſhall.</p>
+               <p>No tythe is due to the Parſon for Deer, Conys, <hi>&amp;c.</hi> without a Special Cuſtom.</p>
+               <p>
+                  <pb n="101" facs="tcp:51642:53"/>
+If a ground be eaten with pro<g ref="char:EOLhyphen"/>fitable Cattle, as Milch Cows, Ewes, Lambs and Cattle bred for Plow and Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, ſhall not pay tythes.</p>
+               <p>If a Stranger or Pariſhioner buy barren Cattle, and feed them for ſale, he ſhall pay tythe for the herbage of them: So of young Cattle.</p>
+               <p>For the Graſs of Fallows no herbage ſhall be paid, nor of Stubles.</p>
+               <p>If the Pariſhoner hath under ſeaven Lambs or Fleeces he ſhall pay an halfpenny for every Lamb and Fleece. Where Sheep are kept in one Pariſh in <hi>Summer,</hi> and another in <hi>Winter,</hi> the tythes are to be divided: So if one buy Sheep out of another Pariſh: Tythe Cheeſe muſt be paid whilſt Cheeſe is made; but in <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> and <hi>Winter,</hi> tythe Milk is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be paid in kind. But in all
+<pb n="102" facs="tcp:51642:54"/>
+places the cuſtom is to be obſer<g ref="char:EOLhyphen"/>ved.</p>
+               <p>Tythe of Lambs, Calves, Pigs, <hi>&amp;c.</hi> is regularly when they are ſo old, that they may be weaned and live without the Dam. Wool is to be paid at the Sheer-day.</p>
+               <p>If a mans Sheep dye of the Rot, or the Owner kill them, he muſt pay tythe for the Wool rateably.</p>
+               <p>Tythes are to be paid of Fruits in kind, when gathered: So of Maſt, or to be ſatisfied, if eaten with Swine. The tythe of Bees is to be paid by the tenth part of the Hony and Wax: Of young Pigeons in Dovecoats, <hi>&amp;c.</hi> tythes ſhall be paid, if they be ſold.</p>
+               <p>Geeſe, Ducks and Swans are uſually paid in their kind; but of Hens and Turkies commonly in their Eggs<hi>:</hi> Where they pay tythe of Eggs, there is no tythe of the Young <hi>&amp; ſic e converſo:</hi> No tythes due for Dwelling-Houſes, properly.</p>
+               <p>
+                  <pb n="103" facs="tcp:51642:54"/>
+No tythes ſhall be paid of thoſe hings which do not annually in<g ref="char:EOLhyphen"/>creaſe, as Stones, Turfs, Slates, Bricks, Tiles, Marble-lime, Tinn, Lead, Copper, unleſs by ſpecial tcuſtom</p>
+               <p>
+                  <list>
+                     <head>Tythes due by Cuſtom are of two kinds.</head>
+                     <item n="1">1 Where there is a <hi>modus deci<g ref="char:EOLhyphen"/>mandi,</hi> and by cuſtom mony or ſome other thing is paid in lieu of tythes.</item>
+                     <item n="2">2. Where tythes hath by cu<g ref="char:EOLhyphen"/>ſtom been paid of things not tytheable, as of Lead in <hi>Darby<g ref="char:EOLhyphen"/>ſhire,</hi> Tynn in <hi>Devonſhire.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>In ſome Countrys they ſay, they pay tythe ale, a very pro<g ref="char:EOLhyphen"/>per place for fudling Parſons to live in.</p>
+               <p>The Parſon, Vicar, Impropri<g ref="char:EOLhyphen"/>ator or Farmer cannot come him<g ref="char:EOLhyphen"/>ſelf and ſet forth the tythes with<g ref="char:EOLhyphen"/>out the Licenſe and Conſent of
+<pb n="104" facs="tcp:51642:55"/>
+the Owner, of the Corn, Hay, <hi>&amp;c.</hi> if he do, and carry it away, he is a Treſpaſſor. But a Par<g ref="char:EOLhyphen"/>ſon, Vicar, <hi>&amp;c.</hi> may after the tythes are ſet forth, come himſelf or his Servants, and ſpread abroad and dry his Corn, Hay, <hi>&amp;c.</hi> up<g ref="char:EOLhyphen"/>on any convenient place in the ground, till the ſame be fit to be carried into the Barn.</p>
+               <p>The Parſon and Vicar may car<g ref="char:EOLhyphen"/>ry his tythes from the ground, ei<g ref="char:EOLhyphen"/>ther by the common way, or any ſuch way as the Owner of the Land uſeth to carry away his nine parts: but if the Owner of the ground will not ſuffer the Par<g ref="char:EOLhyphen"/>ſon, Vicar, <hi>&amp;c.</hi> to ſpread and dry the Corn or Hay upon the ground, or will ſtop the ways, and not ſuffer the Parſon to car<g ref="char:EOLhyphen"/>ry them away; this is no good ſetting forth within the Stat. 2 <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> 6. and they may have an action upon the Caſe for ſuch di<g ref="char:EOLhyphen"/>ſturbance.</p>
+               <p>
+                  <pb n="105" facs="tcp:51642:55"/>
+In all Caſes where a ſpiritual perſon preſcribes in <hi>non decimando,</hi> his Tenant and Farmers ſhall take the benefit thereof.</p>
+               <p>If any of the Abbots, Priors, <hi>&amp;c.</hi> that came to the Crown, by the Stat. 27 <hi>Heu.</hi> 8. c. 28. were diſchar<g ref="char:EOLhyphen"/>ged of payment of tythes by pre<g ref="char:EOLhyphen"/>ſcription, <hi>de non dicimando,</hi> yet the Patentees of the Lands ſhall not have the benefit of ſuch preſcri<g ref="char:EOLhyphen"/>ptions, but ſhall pay tythes.</p>
+               <p>But if the Kings Patentees of thoſe Abby Lands, that came to the Crown by Stat. 31 <hi>H.</hi> 8. may take the advantage.</p>
+               <p>But every Lay-man may pre<g ref="char:EOLhyphen"/>ſcribe <hi>de modo decimandi,</hi> as to pay ſo much in lieu of all tyth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to the Parſon.</p>
+               <p>It hath been held a void preſcri<g ref="char:EOLhyphen"/>ption to pay a Load of Hay year<g ref="char:EOLhyphen"/>ly, in diſcharge of all his tythe<g ref="char:EOLhyphen"/>hay, that is to a part in diſcharge of the whole.</p>
+               <p>
+                  <pb n="106" facs="tcp:51642:56"/>
+It is no good <hi>modus</hi> to pay for every milch Cow, 2<hi>d.</hi> and for every Calf 1<hi>d.</hi> in diſcharge of the tythes of all other Cattle; but it is a good <hi>modus</hi> for the Calves and Milk, only.</p>
+               <p>A <hi>modus</hi> to pay thirty Eggs in <hi>Lent,</hi> in ſatisfaction of all the tythe of Eggs, hath been held a good <hi>modus.</hi>
+               </p>
+               <p>It is a good <hi>modus,</hi> that the Par<g ref="char:EOLhyphen"/>ſon, time out of mind, hath had ſo much, or ſuch a parſel of Mea<g ref="char:EOLhyphen"/>dow or Land in ſatisfaction and diſcharge of the tythes of Hay, <hi>&amp;c.</hi> ariſing upon the Land.</p>
+               <p>A <hi>modus</hi> that in conſideration the Pariſhioner hath cut, dryed and ſhockt the Corn, he hath been freed from the payment of tythe<g ref="char:EOLhyphen"/>hay, hath been held a good pre<g ref="char:EOLhyphen"/>ſcription.</p>
+               <p>The Aftermath is freed from the payment of tythes.</p>
+               <p>If a man preſcribe to pay ſix
+<pb n="107" facs="tcp:51642:56"/>
+ſhillings and eight pence for all the tythes ariſing and hapning in ſuch a Park, and the Park is diſ<g ref="char:EOLhyphen"/>parked and turned to tillage, the preſcription is gone.</p>
+               <p>It hath been held a good <hi>modus</hi> to give a Buck or Doe yearly to the Rector, <hi>&amp;c.</hi> in diſcharge of all the tythe ariſing within the Park. And it ſhall hold, though the Park be diſcharged. But if the <hi>modus</hi> have been only for the herbage of the Park, and it be diſparkt and ſown with Corn, the <hi>modus</hi> is gone.</p>
+               <p>If a man have a <hi>modus</hi> for all the Hay and Graſs upon twenty Acres of Land, and converts the ſame to Tillage, he ſhall pay tythes thereof. So it appears a great difference, where the <hi>modus</hi> goes to all manner of tythes in ge<g ref="char:EOLhyphen"/>neral, and where to particular tythes.</p>
+               <p>At <hi>Yarmoth,</hi> &amp;c. when they re<g ref="char:EOLhyphen"/>turn
+<pb n="108" facs="tcp:51642:57"/>
+from fiſhing, they divide the Doles, and the firſt Dole which is ſet out, is called Chriſt's Dole, half of this is given to the Parſon of the place where they Land, and the other half is to be diſtri<g ref="char:EOLhyphen"/>buted amongſt them to give to the Parſon, where every one inhabits. If the Pariſhioner compound for his tythes, during his life, with<g ref="char:EOLhyphen"/>out deed, its ill.</p>
+               <p>
+                  <hi>Alteragium,</hi> are ſuch minute tythes which the Vicar ſhall have, and ſhall be expounded according to the uſe, as Wood, Wooll, <hi>&amp;c. Lit. Rep.</hi> 243.</p>
+               <p>Copper Mills, Fulling-Mills, Glaſs-Houſe, <hi>&amp;c.</hi> ſhall not pay tythes.</p>
+               <p>Where a <hi>modus</hi> is alleadged to pay a certain ſum to a Vicar in diſcharge of any tythes due to the Parſon, it ſeems to be a good <hi>modus.</hi>
+               </p>
+               <p>Tythes muſt paſs by grant under hand and ſeal, or by fine, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <pb n="109" facs="tcp:51642:57"/>
+Tythes impropriate, are be<g ref="char:EOLhyphen"/>come Lay-fee, and may paſs by Will, and may be granted by name of Hereditaments.</p>
+               <p>Upon a Leaſe for Lives of tythes, no rent can be reſerved: But upon a demiſe of tythes for years, a rent may be reſerved, and an action of debt may lye for it.</p>
+               <p>Barren Heaths by Stat. 2 <hi>Ed.</hi> 6. ſhall be diſcharged of payment of tythes of Corn or Hay, for the firſt ſeven years after the im<g ref="char:EOLhyphen"/>provement.</p>
+               <p>If a Wood be grubbed up, and made fit for tillage, it ſhall pay tythes preſently.</p>
+               <p>Parſons and Vicars at this day, not<g ref="char:EOLhyphen"/>withſtanding the confirmation of the Patron and Ordinary, cannot make a real compoſition for no longer than the Parſon and Vicars Life.</p>
+               <p>Offerings which are cuſtomary and certain, as for Communicants,
+<pb n="110" facs="tcp:51642:58"/>
+Marriages, Chriſtnings, Church<g ref="char:EOLhyphen"/>ings of Women, Burials; are by Stat. 2 <hi>Eliz</hi> 6. confirmed to the Pariſh Prieſts, Vicars and Curats of the Pariſhes where the parties live that ought to pay the ſame.</p>
+               <p>All Monaſteries under 200 <hi>l. per annum</hi> value were diſſolved by Stat. 27 <hi>H.</hi> 8. and none of thoſe Abby or Priory Lands are freed or diſ<g ref="char:EOLhyphen"/>charged of the payment of tythes by the Stat. 31. <hi>H.</hi> 8. <hi>c.</hi> 8. or by any other Law.</p>
+               <p>The Abbots at the time of their diſſolution held their Lands diſ<g ref="char:EOLhyphen"/>charged of tythes.</p>
+               <p n="1">1. By the Popes Bull. When the Pope here in <hi>England</hi> would grant exemption to this or that Abbot, as pleaſed him.</p>
+               <p n="2">2. By real compoſition between the Parſon and the Abbots, con<g ref="char:EOLhyphen"/>firmed by the Patron and Ordi<g ref="char:EOLhyphen"/>nary.</p>
+               <p n="3">3. By Preſcription.</p>
+               <p n="4">
+                  <pb n="111" facs="tcp:51642:58"/>
+4. By Order. <hi>Ciſtertians, Hoſpi<g ref="char:EOLhyphen"/>talers</hi> and <hi>Templars</hi> and the <hi>Prae<g ref="char:EOLhyphen"/>monſtratenſes</hi> were diſcharged of the payment of tythes. But the priviledges granted to theſe Or<g ref="char:EOLhyphen"/>ders, extended only to the Lands, theſe Orders held in their own hands, and not to any which was held by their Tenants or Farmers.</p>
+               <p>The <hi>Templars, Anno Dom.</hi> 1311. were condemned for Hereſie, and their poſſeſſions were by Act of Parliament given to the <hi>Hoſpitalers</hi> or <hi>Knights</hi> of St. <hi>John</hi> of <hi>Jeruſalem.</hi>
+               </p>
+               <p n="5">5. By Perpetual Unity. That is, where an Abbot, Prior, <hi>&amp;c.</hi> time out of mind hath been ſei<g ref="char:EOLhyphen"/>ſed of the Lands, out of which the tythes ariſe, and the Rectory within which Pariſh the Lands lie. It muſt be perpetual, that is, the Abby muſt be founded and endowed with the Land and Re<g ref="char:EOLhyphen"/>ctory before the time of memory which by the Rules of the Com<g ref="char:EOLhyphen"/>mon-Law,
+<pb n="112" facs="tcp:51642:59"/>
+muſt be before the firſt year of <hi>Rich.</hi> 1. for if by any Records, Deeds, or other Legal Evidence it can be made appear, that eirher the Land or Rectory came to the Abbey ſince the firſt year of <hi>R.</hi> 1 the Union is not per<g ref="char:EOLhyphen"/>petual.</p>
+               <p>The Stat. 31 <hi>H.</hi> 8. extends not to free or diſcharge any Lands from the payment of tythes, ſave thoſe that came to the Crown by that Act.</p>
+               <p>No man ſhall pay a Mortuary, unleſs he died poſſeſſed of Goods to the value of ten Marks. If he had ten Marks in moveable goods, and under thirty pounds, then he ſhould pay 3<hi>s.</hi> 6<hi>d.</hi> if above thirty, and under forty pounds, then he ſhould 6<hi>s.</hi> 8<hi>d.</hi> if above forty pounds 10<hi>s.</hi>
+               </p>
+               <p>The Citizens of <hi>London<g ref="char:punc">▪</g>
+                  </hi> pay year<g ref="char:EOLhyphen"/>ly for every ten ſhillings rent of all Houſes, Shops, <hi>&amp;c.</hi> within <hi>London</hi> 16<hi>d. ob.</hi>
+               </p>
+               <p>
+                  <pb n="113" facs="tcp:51642:59"/>
+If tythes be in the hands of tem<g ref="char:EOLhyphen"/>poral men, they are by reaſon of them contributory to temporal charges.</p>
+               <p>Tythes are at this day charge<g ref="char:EOLhyphen"/>able with all charges impoſed by Act of Parliament, wherein they are not exempted.</p>
+               <p>Tythes are at this day ſubject to pay firſt fruits, which are the firſt years profits of every Spiritu<g ref="char:EOLhyphen"/>al Benefice, at a new Incumbents entry into his Living.</p>
+               <p>The Firſt Fruits are not rated at full and utmoſt value of the Living they are to be paid for, but according to the valuation taken and made in the 26th year of King <hi>H</hi> 8. and now uſed in the Firſt Fruits Office.</p>
+               <p>Theſe Firſt Fruits are not to be paid all at once, but one quarter of them is to be paid at the end of ſix months, from the time of the induction, another fourth part at
+<pb n="114" facs="tcp:51642:60"/>
+the end of twelve months, ano<g ref="char:EOLhyphen"/>ther fourth part at the end of eighteen months, and the laſt fourth part at the end of two years.</p>
+               <p>All Vicaridges not exceed<g ref="char:EOLhyphen"/>ing ten pounds, and all Parſona<g ref="char:EOLhyphen"/>ges not exceeding ten Marks, ac<g ref="char:EOLhyphen"/>cording to the valuation in the Firſt Fruits Office, are diſcharged from the payment of Firſt Fruits by Stat. 1 <hi>Eliz.</hi> c. 4. now the rea<g ref="char:EOLhyphen"/>ſon why Vicaridges, not ex<g ref="char:EOLhyphen"/>ceeding ten pounds ſhould be freed of this charge, and Parſon<g ref="char:EOLhyphen"/>ages of ten marks ſhould pay them, was, that the Vicaridges in time of Popery, and when the valuation was taken, had a great income by voluntary Offerings, which falling to little or nothing upon the diſſolution of Monaſte<g ref="char:EOLhyphen"/>ries, this favour was afforded them in their Firſt Fruits.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="115" facs="tcp:51642:60"/>
+               <head>CHAP. XIV. <hi>Simony. Vid. Stat.</hi> 13 <hi>Eliz. Cap.</hi> 6.</head>
+               <p>IF any ſhall receive or take Mo<g ref="char:EOLhyphen"/>ney Fee, Reward or Profit for any Preſentation to a Benifice, with Cure, altho he which was preſented, be not knowing of it, yet the Preſentation, Admiſſion and Induction are void. For he is <hi>Simoniace Promotus,</hi> 12 <hi>Rep. Coll.</hi> Dr. <hi>Hucthinſons</hi> Caſe.</p>
+               <p>Every Incumbent that comes in by Simony is ſo diſabled for ever after to be preſented to the ſame Church, that the King (to whom the Law gives the preſent<g ref="char:EOLhyphen"/>ment) cannot preſent the ſame man again to the ſame Church.</p>
+               <p>
+                  <pb n="116" facs="tcp:51642:61"/>
+The King cannot diſpenſe with the ſaid Statute by any <hi>non obſtan<g ref="char:EOLhyphen"/>te;</hi> and though he pardon the Simony, yet that makes not the party capable.</p>
+               <p>If the Church be void by Si<g ref="char:EOLhyphen"/>mony, the Ordinary is not<g ref="char:punc">▪</g> bound to give notice of the Avoidance to the Patron.</p>
+               <p>One preſents <hi>I. S.</hi> to a Church which is void, and upon the Pre<g ref="char:EOLhyphen"/>ſentation he takes an Obligation of him to reſign upon requeſt, that the Obligee may preſent his Son when he is of full Age, this is a good Obligation, and not made on a Simoniacal Contract <hi>M.</hi> 8. <hi>Jac. B. R. Johns</hi> and <hi>Lan<g ref="char:EOLhyphen"/>rence</hi>'s Caſe.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:51642:61"/>
+            <head>
+               <hi>A Catalogue of ſome New curious Books, the four firſt never Publiſhed before <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his</hi> Michaelmaſs <hi>Term,</hi> 1692, <hi>and moſt of the others pub<g ref="char:EOLhyphen"/>liſhed but a little before in the ſame year; all Printed for, and Sold by</hi> Tho. Salusbury, at <hi>at the</hi> King's Arms <hi>next</hi> S. Dunſtans <hi>Church in</hi> Fleetſtreet.</head>
+            <p>
+               <hi>THE Reformed Gentleman,</hi> or the Old En<g ref="char:EOLhyphen"/>gliſh Morals reſcued from the Immora<g ref="char:EOLhyphen"/>lities of the preſent Age; ſhewing how In<g ref="char:EOLhyphen"/>conſiſtent thoſe pretended Geenteel Accom<g ref="char:EOLhyphen"/>pliſhments of Swearing, Drinking, Who<g ref="char:EOLhyphen"/>ring, and Sabbath breaking are with the true Generoſity of an Engliſh man. With an account of the proceedings of the Go<g ref="char:EOLhyphen"/>vernment for the Reformation of Manners By A. <hi>M.</hi> of the Church of <hi>England,</hi> Bound in 8. price 1<g ref="char:punc">▪</g> s. 6 <hi>d.</hi>
+            </p>
+            <p>2. <hi>An Eſſay against <g ref="char:V">Ʋ</g>nequal Marriages,</hi> in four Chapters, 1. The Introduction. 2. A<g ref="char:EOLhyphen"/>gainſt Old Perſons Marrying with Young. 3. Againſt Perſons Marrying without Parents or Friends Conſent. 4. Againſt Perſons Marrying without their own Conſent. By <hi>S. Bufford,</hi> Gent. in 12. bound price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:51642:62"/>
+3. <hi>The Parſons Vade Mecum:</hi> or, A Trea<g ref="char:EOLhyphen"/>tiſe containing Choice Obſervations about the accounts of the year, moveable Feaſts, Ember-weeks, Ecclefiaſtical Cenſures, the memorable things in the three firſt Cen<g ref="char:EOLhyphen"/>turies, and ſome after Ages, Archbiſhops and Biſhopricks, their Election, Conſecra<g ref="char:EOLhyphen"/>tion, Inſtallment, <hi>&amp;c.</hi> Patronage, Inſtitu<g ref="char:EOLhyphen"/>tion, Induction, Non-reſidence, Diſpenſa<g ref="char:EOLhyphen"/>tions, Pluralities, Deprivation, Dilapida<g ref="char:EOLhyphen"/>tion, Priviledges of Clergymen. Tithes and Simony; very fit for all Clergymen and Gentlemen in 12. bound, price 1. <hi>s.</hi>
+            </p>
+            <p>4 <hi>Sermo Mirabilis:</hi> or the ſilent Language. Whereby one may learn perfectly, in the ſpace of ſix hours, how to impart his mind to his Friend in any Language, <hi>Engliſh, Latin, French, Dutch, &amp;c.</hi> tho never ſo deep and dangerous a Secret, without the leaſt Noiſe, Word or Voice; and without the Knowledge of any in Company. Being a wonderful Art kept ſecret for ſeveral Ages, in <hi>Padua,</hi> and now publiſhed only for the wiſe and prudent, who will not expoſe it, as a Proſtitute, to every Fooliſh and Ignorant Fellow. By Monfieur <hi>La Fin,</hi> once Secreta<g ref="char:EOLhyphen"/>ry to his <hi>Eminence,</hi> the Cardinal of <hi>Richlieu.</hi>
+            </p>
+            <p>5 <hi>Blunts</hi> Law Dictionary, being the beſt extant, 10 <hi>s.</hi>
+            </p>
+            <p>6 <hi>Behmens</hi> Theoſopick Phyloſophy unfold<g ref="char:EOLhyphen"/>ed, 4 to 6 <hi>s.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:51642:62"/>
+7 The Hiſtory of the late great Revolu<g ref="char:EOLhyphen"/>tion in <hi>England</hi> and <hi>Scotland,</hi> 5 <hi>s.</hi>
+            </p>
+            <p>8 <hi>Eachara's</hi> Gazzetteer, or Newſmans In<g ref="char:EOLhyphen"/>terpreter, 2 <hi>s.</hi>
+            </p>
+            <p>9 —Compendium of Geography, ge<g ref="char:EOLhyphen"/>neral and ſpecial, <hi>&amp;c.</hi> 1 <hi>s,</hi> 6 <hi>d.</hi>
+            </p>
+            <p>10 —Deſcription of <hi>Ireland,</hi> with 5 Maps, 1 <hi>s.</hi> 6. <hi>d.</hi>
+            </p>
+            <p>11 —Deſcription of <hi>Flanders,</hi> with a Map, 1 <hi>s.</hi>
+            </p>
+            <p>12 —Deſcription of the Duke of <hi>Sa<g ref="char:EOLhyphen"/>voys</hi> Dominions, 3 <hi>d.</hi>
+            </p>
+            <p>13 <hi>Tryons</hi> new Art of Brewing Beer, Ale, <hi>&amp;c.</hi> 1 <hi>s.</hi>
+            </p>
+            <p>14 —his Rules for preſerving health, 1 <hi>s.</hi>
+            </p>
+            <p>15 —Myſtery of Dreams and Viſions un<g ref="char:EOLhyphen"/>folded, 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>16 New Art of making <hi>Engliſh</hi> Wines and Brandy, 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>17 <hi>Chymicus Rationalis</hi> or the Art of Chy<g ref="char:EOLhyphen"/>miſtry, 2 <hi>s.</hi>
+            </p>
+            <p>18 <hi>Leadbetter</hi>'s Arithmetical Rules made eaſie, 1 <hi>s.</hi>
+            </p>
+            <p>19 <hi>Barker</hi>'s Meaſurers Guide, with the Art of Gaging, 1 <hi>s.</hi>
+            </p>
+            <p>20 Secret Hiſtory of the <hi>French</hi> King, 1 <hi>s.</hi>
+            </p>
+            <p>21 <hi>Taxilla,</hi> or Love preferr'd before Du<g ref="char:EOLhyphen"/>ty, 1 <hi>s.</hi>
+            </p>
+            <p>22 Treatiſe of Civil Bonds and Con<g ref="char:EOLhyphen"/>tracts, 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>23 <hi>Bragadcia,</hi> a Comedy, 1 <hi>s.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:51642:63"/>
+24 <hi>George Whither's</hi> wonderful Prophe<g ref="char:EOLhyphen"/>ſies, 6 <hi>d.</hi>
+            </p>
+            <p>25 Remarks on the late Queen's Dream, 6 <hi>d.</hi>
+            </p>
+            <p>26 The Declaration of the <hi>Vaudois,</hi> 2 <hi>d.</hi>
+            </p>
+            <p>27 <hi>Rale</hi>'s Vindication of the Church of <hi>Scotland,</hi> 6 <hi>d.</hi>
+            </p>
+            <p>28 <hi>Whitehall</hi>'s Miſcellany Poems, 6 <hi>d.</hi>
+            </p>
+            <p>29 Riſe and Progreſs of the New Refor<g ref="char:EOLhyphen"/>mation, 6 <hi>d.</hi>
+            </p>
+            <p>30 An Eſſay againſt unequal Marri<g ref="char:EOLhyphen"/>ages, <hi>&amp;c.</hi> 1 <hi>s.</hi>
+            </p>
+            <pb facs="tcp:51642:63"/>
+         </div>
+      </back>
+   </text>
+</TEI>
